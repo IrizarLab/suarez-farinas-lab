@@ -1,0 +1,118 @@
+@import "tailwindcss";
+
+/* ============================================================
+   SUÁREZ-FARIÑAS LAB — Design Tokens
+   Color palette: Havana warmth meets genomics
+   ============================================================ */
+
+@theme {
+  /* --- Primary: Deep ocean (science/data) --- */
+  --color-primary-50: #f0f4f8;
+  --color-primary-100: #d9e2ec;
+  --color-primary-200: #bcccdc;
+  --color-primary-300: #9fb3c8;
+  --color-primary-400: #829ab1;
+  --color-primary-500: #627d98;
+  --color-primary-600: #486581;
+  --color-primary-700: #334e68;
+  --color-primary-800: #243b53;
+  --color-primary-900: #102a43;
+  --color-primary-950: #0a1929;
+
+  /* --- Coral: Cuban warmth (accent/life) --- */
+  --color-coral-50: #fff5f5;
+  --color-coral-100: #ffe3e3;
+  --color-coral-200: #ffc9c9;
+  --color-coral-300: #ffa8a8;
+  --color-coral-400: #ff8787;
+  --color-coral-500: #E8634A;
+  --color-coral-600: #D14832;
+  --color-coral-700: #B52E1C;
+
+  /* --- Amber: Golden Havana light --- */
+  --color-amber-50: #fff9e6;
+  --color-amber-100: #ffefc2;
+  --color-amber-200: #ffe08a;
+  --color-amber-300: #ffd152;
+  --color-amber-400: #F5B731;
+  --color-amber-500: #D4961A;
+  --color-amber-600: #A8710F;
+
+  /* --- Teal: Biology / healing --- */
+  --color-teal-50: #e6fffa;
+  --color-teal-100: #b2f5ea;
+  --color-teal-200: #81e6d9;
+  --color-teal-300: #4fd1c5;
+  --color-teal-400: #38b2ac;
+  --color-teal-500: #2C9E8C;
+  --color-teal-600: #1D7A6D;
+
+  /* --- Neutral: Warm grays --- */
+  --color-warm-50: #faf9f7;
+  --color-warm-100: #f1efe9;
+  --color-warm-200: #e2dfd6;
+  --color-warm-300: #c8c4b8;
+  --color-warm-400: #a39e93;
+  --color-warm-500: #7c786e;
+  --color-warm-600: #5c5850;
+  --color-warm-700: #3d3a34;
+  --color-warm-800: #2a2824;
+  --color-warm-900: #1a1916;
+
+  /* --- Fonts --- */
+  --font-display: 'Playfair Display', Georgia, serif;
+  --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, Consolas, monospace;
+}
+
+/* ============================================================
+   Global Styles
+   ============================================================ */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: #f5f0ec;
+  color: var(--color-warm-100);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+}
+
+/* Display font for headings */
+h1, h2, h3 {
+  font-family: var(--font-display);
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--color-primary-950);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-primary-700);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-coral-500);
+}
+
+/* Selection color */
+::selection {
+  background: var(--color-coral-500);
+  color: white;
+}

@@ -1,0 +1,1997 @@
+{
+  "totalCount": 249,
+  "papers": [
+    {
+      "pmid": "41881145",
+      "title": "Assessment of Abdominal Adiposity in Obstructive Sleep Apnea using PET/MRI: Impact of Short-Term CPAP.",
+      "authors": "Prevot J, Xu B, Patel H, Fauveau V, Lee JH, Cohen O, Khan S, Robson PM, Greenspan H, Suárez-Fariñas M, Shah NA, Kundel V",
+      "journal": "Chest",
+      "year": "2026",
+      "doi": "10.1016/j.chest.2026.02.031"
+    },
+    {
+      "pmid": "41826514",
+      "title": "Individualized treatment effects of CPAP on secondary cardiovascular outcomes in non-sleepy obstructive sleep apnea patients.",
+      "authors": "Cohen O, Al-Taie Z, Kundel V, Khan S, Devarakonda K, Le V, Robson PM, Anderson CS, Baumert M, Loffler K, McEvoy RD, Suárez-Fariñas M, Shah NA",
+      "journal": "Communications medicine",
+      "year": "2026",
+      "doi": "10.1038/s43856-026-01457-1"
+    },
+    {
+      "pmid": "41691476",
+      "title": "Heterogeneity of Vascular Inflammation in Obstructive Sleep Apnea: Effects of CPAP Therapy.",
+      "authors": "Kundel V, Gans A, Lee JH, Cohen O, Khan S, Le V, Patel H, McAlpine CS, Fayad ZA, Robson PM, Mani V, Suárez-Fariñas M, Shah NA",
+      "journal": "Annals of the American Thoracic Society",
+      "year": "2026",
+      "doi": "10.1093/annalsats/aaoag022"
+    },
+    {
+      "pmid": "41408053",
+      "title": "NutriSighT: Interpretable Transformer Model for Dynamic Prediction of Underfeeding Enteral Nutrition in Mechanically Ventilated Patients.",
+      "authors": "Jangda M, Patel J, Vaid A, Gill J, McCarthy P, Desman J, Gupta R, Patel D, Kavi N, Bakare S, Klang E, Freeman R, Manasia A, Oropello J, Chan L, Suarez-Farinas M, Charney AW, Kohli-Seth R, Nadkarni GN, Sakhuja A",
+      "journal": "Nature communications",
+      "year": "2025",
+      "doi": "10.1038/s41467-025-66200-1"
+    },
+    {
+      "pmid": "41357343",
+      "title": "Personalized Fluid Management in Patients With Sepsis and Acute Kidney Injury: A Casual Machine Learning Approach.",
+      "authors": "Oh W, Takkavatakarn K, Al-Taie Z, Kittrell H, Shawwa K, Gomez H, Sawant AS, Tandon P, Kumar G, Sterling M, Hofer I, Chan L, Oropello J, Kohli-Seth R, Charney AW, Kraft M, Kovatch P, Suárez-Fariñas M, Kellum JA, Nadkarni GN, Sakhuja A",
+      "journal": "Critical care explorations",
+      "year": "2025",
+      "doi": "10.1097/CCE.0000000000001354"
+    },
+    {
+      "pmid": "41346606",
+      "title": "Comparing human pediatric immune responses to primary infection with dengue, chikungunya and Zika viruses.",
+      "authors": "Tomalin LE, Bos S, Fenutria R, Chen Y, Kim-Schulze S, Rahman AH, Balmaseda A, Fernandez-Sesma A, Harris E, Suaréz-Fariñas M",
+      "journal": "Frontiers in immunology",
+      "year": "2025",
+      "doi": "10.3389/fimmu.2025.1679566"
+    },
+    {
+      "pmid": "41318620",
+      "title": "Wearable devices detect physiological changes that precede and are associated with symptomatic and inflammatory rheumatoid arthritis flares.",
+      "authors": "Sharma P, Danieletto M, Whang JK, Landell K, Helmus D, Sands BE, Suarez-Farinas M, Gulko PS, Hirten RP",
+      "journal": "Scientific reports",
+      "year": "2025",
+      "doi": "10.1038/s41598-025-29748-y"
+    },
+    {
+      "pmid": "41282947",
+      "title": "Personalized Hemodynamic Management Using Reinforcement Learning to Prevent Persistent Acute Kidney Injury After Cardiac Surgery.",
+      "authors": "Sabounchi M, Desman JM, Amit IS, Oh W, Capone C, Jayaraman P, Kumar G, Campoli M, Vijayaraghavan M, Timsina P, McCarthy P, Manasia A, Oropello J, Varghese R, Gorbenko K, Gomez-Danies H, Kovatch P, Smith G, Shetreat-Klein A, Tolwani A, Suárez-Fariñas M, Kashani K, Khanna A, Bihorac A, McGreevy J, Stump L, Kellum J, Reich D, Agrawal P, Nadkarni GN, Sakhuja A",
+      "journal": "medRxiv : the preprint server for health sciences",
+      "year": "2025",
+      "doi": "10.1101/2025.10.23.25338698"
+    },
+    {
+      "pmid": "41141506",
+      "title": "Liquid Biopsy-Multiomics Link Adhesion Pathway Dysregulation to Kidney Injury Severity.",
+      "authors": "Anandakrishnan N, Yi Z, Sun Z, Liu T, Haydak J, Eddy S, Jayaraman P, DeFronzo S, Saha A, Sun Q, Yang D, Mendoza A, Mosoyan G, Wen HH, Fu J, Kehrer T, Menon R, Otto EA, Godfrey B, Yang J, Suarez-Farinas M, Leffters S, Twumasi A, Meliambro K, Charney AW, García-Sastre A, Campbell KN, Gusella GL, He JC, Miorin L, Nadkarni GN, Wisnivesky J, Li H, Kretzler M, Coca SG, Chan L, Zhang W, Azeloglu EU",
+      "journal": "Kidney international reports",
+      "year": "2025",
+      "doi": "10.1016/j.ekir.2025.07.021"
+    },
+    {
+      "pmid": "41063393",
+      "title": "Disease duration impacts intestinal gene expression profiles in Crohn's disease but not in ulcerative colitis.",
+      "authors": "Ibing S, Tastad C, Renard BY, Cohen LJ, Argmann C, Helmus D, Schadt EE, Merad M, Kukreja A, Visvanathan S, Sands BE, Dubinsky M, Suarez-Fariñas M, Colombel JF, Böttinger EP, Cho JH, Petralia F, Ungaro RC",
+      "journal": "Journal of Crohn's & colitis",
+      "year": "2025",
+      "doi": "10.1093/ecco-jcc/jjaf179"
+    },
+    {
+      "pmid": "41051639",
+      "title": "A Functional Genetic Score in the ZMIZ1/TGF-β/STAT Pathway Predicts Early Biologic Discontinuation in Psoriasis Patients Treated with Anti-TNF and Anti-IL12/23 Agents.",
+      "authors": "de Luque J, Mochón-Jiménez C, Rivera-Ruiz I, Gay-Mimbrera J, Fuentes-Duculan J, Coats I, Aguilar-Luque M, Isla-Tejera B, Nieto AV, Galán-Gutiérrez M, López TL, Suarez-Fariñas M, Krueger JG, Ruano J",
+      "journal": "Advances in therapy",
+      "year": "2025",
+      "doi": "10.1007/s12325-025-03350-0"
+    },
+    {
+      "pmid": "41040723",
+      "title": "Wearable Devices Detect Physiological Changes that Precede and Are Associated with Symptomatic and Inflammatory Rheumatoid Arthritis Flares.",
+      "authors": "Sharma P, Danieletto M, Whang JK, Landell K, Helmus D, Sands BE, Suarez-Farinas M, Gulko PS, Hirten RP",
+      "journal": "medRxiv : the preprint server for health sciences",
+      "year": "2025",
+      "doi": "10.1101/2025.09.24.25336585"
+    },
+    {
+      "pmid": "40935096",
+      "title": "Reply.",
+      "authors": "Hirten RP, Sands BE, Suarez-Farinas M",
+      "journal": "Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association",
+      "year": "2025",
+      "doi": "10.1016/j.cgh.2025.09.004"
+    },
+    {
+      "pmid": "40730902",
+      "title": "PD-1 is requisite for skin T(RM) cell formation and specification by TGFβ.",
+      "authors": "Devi KSP, Wang E, Jaiswal A, Konieczny P, Kim TG, Nirschl CJ, Verma A, Liu Y, Milczanowski J, Christo SN, Gandolfo LC, Haitz K, Vardam TD, Wu P, King SL, Tse SW, Pradhan K, Jiang X, Tian T, Fuhlbrigge RC, Schmults CD, Clark RA, Kupper TS, Freeman GJ, Mackay LK, Naik S, Newell EW, Elemento O, Suarez-Farinas M, Anandasabapathy N",
+      "journal": "Nature immunology",
+      "year": "2025",
+      "doi": "10.1038/s41590-025-02228-1"
+    },
+    {
+      "pmid": "40609697",
+      "title": "Kinetics of early peanut allergy development and resolution in the EAT, LEAP, and PAS cohorts.",
+      "authors": "Foong RX, Bahnson HT, Du Toit G, Huffaker M, Sampson HA, Suárez-Fariñas M, Logan K, Perkin M, van Ree R, Santos AF, Lack G",
+      "journal": "The Journal of allergy and clinical immunology",
+      "year": "2025",
+      "doi": "10.1016/j.jaci.2024.10.042"
+    },
+    {
+      "pmid": "40602689",
+      "title": "Kinetics of epitope-specific IgE and IgG(4) in early peanut allergy development and resolution.",
+      "authors": "Suárez-Fariñas M, Lee KW, Suprun M, Bahnson HT, Foong RX, Du Toit G, Lack G, Sampson HA",
+      "journal": "The Journal of allergy and clinical immunology",
+      "year": "2025",
+      "doi": "10.1016/j.jaci.2025.06.022"
+    },
+    {
+      "pmid": "40581072",
+      "title": "Wearable Devices Identify Altered Sleep Characteristics and Sleep Trajectories in Active Inflammatory Bowel Disease.",
+      "authors": "Hirten RP, Danieletto M, Whang JK, Landell K, Helmus D, Said H, Ensari I, Shah N, Bagiella E, Figueiro MG, Sands BE, Suarez-Farinas M",
+      "journal": "Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association",
+      "year": "2026",
+      "doi": "10.1016/j.cgh.2025.06.003"
+    },
+    {
+      "pmid": "40420108",
+      "title": "ORAKLE: Optimal Risk prediction for mAke30 in patients with sepsis associated AKI using deep LEarning.",
+      "authors": "Oh W, Veshtaj M, Sawant A, Agrawal P, Gomez H, Suarez-Farinas M, Oropello J, Kohli-Seth R, Kashani K, Kellum JA, Nadkarni G, Sakhuja A",
+      "journal": "Critical care (London, England)",
+      "year": "2025",
+      "doi": "10.1186/s13054-025-05457-w"
+    },
+    {
+      "pmid": "40382782",
+      "title": "Distinct perturbances in metabolic pathways associate with disease progression in inflammatory bowel disease.",
+      "authors": "Bourgonje AR, Ibing S, Livanos AE, Ganjian DY, Argmann C, Sands BE, Dubinsky MC, Helmus DS, Jacobsen HA, Larsen L, Jess T, Suarez-Fariñas M, Renard BY, Colombel JF, Ungaro RC",
+      "journal": "Journal of Crohn's & colitis",
+      "year": "2025",
+      "doi": "10.1093/ecco-jcc/jjaf082"
+    },
+    {
+      "pmid": "40080690",
+      "title": "A foundational transformer leveraging full night, multichannel sleep study data accurately classifies sleep stages.",
+      "authors": "Fox B, Jiang J, Wickramaratne S, Kovatch P, Suarez-Farinas M, Shah NA, Parekh A, Nadkarni GN",
+      "journal": "Sleep",
+      "year": "2025",
+      "doi": "10.1093/sleep/zsaf061"
+    },
+    {
+      "pmid": "40010771",
+      "title": "Immunological biomarkers of response and resistance to treatment with cabozantinib and nivolumab in recurrent endometrial cancer.",
+      "authors": "Roudko V, Del Valle DM, Radkevich E, Kelly G, Hui X, Patel M, Gonzalez-Kozlova E, Tuballes K, Streicher H, Atale S, Wang L, CzinCzin B, Kim-Schulze S, Wistuba II, Haymaker CL, Al-Atrash G, Manyam G, Zhang J, Thompson R, Suarez-Farinas M, Lheureux S, Gnjatic S",
+      "journal": "Journal for immunotherapy of cancer",
+      "year": "2025",
+      "doi": "10.1136/jitc-2024-010541"
+    },
+    {
+      "pmid": "39944468",
+      "title": "To explore the causal association between the serum lipid profile and inflammatory bowel disease using bidirectional Mendelian randomisation analysis.",
+      "authors": "Pang X, Yang H, Li M, Suarez-Farinas M, Tian S",
+      "journal": "eGastroenterology",
+      "year": "2024",
+      "doi": "10.1136/egastro-2023-100034"
+    },
+    {
+      "pmid": "39937896",
+      "title": "Gut IgA functionally interacts with systemic IgG to enhance antipneumococcal vaccine responses.",
+      "authors": "Gutzeit C, Grasset EK, Matthews DB, Maglione PJ, Britton GJ, Miller H, Magri G, Tomalin L, Stapylton M, Canales-Herrerias P, Sominskaia M, Guzman M, Pybus M, Tejedor Vaquero S, Radigan L, Tachó-Piñot R, Martín Nalda A, García Prat M, Martinez Gallo M, Dieli-Crimi R, Clemente JC, Mehandru S, Suarez-Farinas M, Faith JJ, Cunningham-Rundles C, Cerutti A",
+      "journal": "Science advances",
+      "year": "2025",
+      "doi": "10.1126/sciadv.ado9455"
+    },
+    {
+      "pmid": "39928078",
+      "title": "Peanut Oral Immunotherapy in Children with High-Threshold Peanut Allergy.",
+      "authors": "Sicherer SH, Bunyavanich S, Berin MC, Lo T, Groetch M, Schaible A, Perry SA, Wheatley LM, Fulkerson PC, Chang HL, Suárez-Fariñas M, Sampson HA, Wang J",
+      "journal": "NEJM evidence",
+      "year": "2025",
+      "doi": "10.1056/EVIDoa2400306"
+    },
+    {
+      "pmid": "39899385",
+      "title": "Peripheral Transcriptomics in Acute and Long-Term Kidney Dysfunction in SARS-CoV-2 Infection.",
+      "authors": "Jayaraman P, Rajagopal M, Paranjpe I, Suarez-Farinas M, Liharska LE, Thompson RC, Del Valle DM, Beckmann ND, Lund AN, Gownivaripally P, Oh W, Gulamali FF, Kauffman J, Gonzalez-Kozlova E, Dellepiane S, Vasquez-Rios G, Vaid A, Jiang J, Fox B, Sakhuja A, Chen S, Kenigsberg E, He JC, Coca SG, Chan L, Merad M, Kim-Schulze S, Gnjatic S, Tsalik EL, Langley R, Charney AW, Nadkarni GN",
+      "journal": "Kidney360",
+      "year": "2025",
+      "doi": "10.34067/KID.0000000727"
+    },
+    {
+      "pmid": "39830234",
+      "title": "NutriSighT: Interpretable Transformer Model for Dynamic Prediction of Hypocaloric Enteral Nutrition in Mechanically Ventilated Patients.",
+      "authors": "Jangda M, Patel J, Gill J, McCarthy P, Desman J, Gupta R, Patel D, Kavi N, Bakare S, Klang E, Freeman R, Manasia A, Oropello J, Chan L, Suarez-Farinas M, Charney AW, Kohli-Seth R, Nadkarni GN, Sakhuja A",
+      "journal": "medRxiv : the preprint server for health sciences",
+      "year": "2025",
+      "doi": "10.1101/2025.01.06.25320067"
+    },
+    {
+      "pmid": "39826619",
+      "title": "Physiological Data Collected From Wearable Devices Identify and Predict Inflammatory Bowel Disease Flares.",
+      "authors": "Hirten RP, Danieletto M, Sanchez-Mayor M, Whang JK, Lee KW, Landell K, Zweig M, Helmus D, Fuchs TJ, Fayad ZA, Nadkarni GN, Keefer L, Suarez-Farinas M, Sands BE",
+      "journal": "Gastroenterology",
+      "year": "2025",
+      "doi": "10.1053/j.gastro.2024.12.024"
+    },
+    {
+      "pmid": "39817189",
+      "title": "Exploring the Relationship Between Sleep Apnea, Myocardial Infarct Size, and Coronary Collaterals in Acute Myocardial Infarction: A Multidisciplinary Study.",
+      "authors": "Kundel V, Devarakonda K, Khan S, Suarez-Farinas M, Cohen O, Santos-Gallego C, Menegus MA, Kini A, Vengrenyuk Y, Okamoto N, Ueda H, Gidwani U, Kizer JR, Redline S, Kaplan R, Shah N",
+      "journal": "Nature and science of sleep",
+      "year": "2025",
+      "doi": "10.2147/NSS.S489788"
+    },
+    {
+      "pmid": "39513996",
+      "title": "The Great Controversy of Obstructive Sleep Apnea Treatment for Cardiovascular Risk Benefit: Advancing the Science through Expert Consensus: An Official American Thoracic Society Workshop Report.",
+      "authors": "Cohen O, Kundel V, Barbé F, Peker Y, McEvoy D, Sánchez-de-la-Torre M, Gottlieb DJ, Bradley TD, Suárez-Fariñas M, Zinchuk A, Azarbarzin A, Malhotra A, Schotland H, Gozal D, Jelic S, Ramos AR, Martin JL, Pamidi S, Johnson DA, Mehra R, Somers VK, Hoyos CM, Jackson CL, Alcantara C, Billings ME, Bhatt DL, Patel SR, Redline S, Yaggi HK, Shah NA",
+      "journal": "Annals of the American Thoracic Society",
+      "year": "2025",
+      "doi": "10.1513/AnnalsATS.202409-981ST"
+    },
+    {
+      "pmid": "39454027",
+      "title": "Gastrointestinal germinal center B cell depletion and reduction in IgA(+) plasma cells in HIV-1 infection.",
+      "authors": "Cossarini F, Shang J, Krek A, Al-Taie Z, Hou R, Canales-Herrerias P, Tokuyama M, Tankelevich M, Tillowitz A, Jha D, Livanos AE, Leyre L, Uzzan M, Martinez-Delgado G, Taylor MD, Sharma K, Bourgonje AR, Cruz M, Ioannou G, Dawson T, D'Souza D, Kim-Schulze S, Akm A, Aberg JA, Chen BK, Kwon DS, Gnjatic S, Polydorides AD, Cerutti A, Argmann C, Vujkovic-Cvijin I, Suarez-Fariñas M, Petralia F, Faith JJ, Mehandru S",
+      "journal": "Science immunology",
+      "year": "2024",
+      "doi": "10.1126/sciimmunol.ado0090"
+    },
+    {
+      "pmid": "39284563",
+      "title": "A Streamlined Strategy for Basophil Activation Testing in a Multicenter Phase III Clinical Trial.",
+      "authors": "Suárez-Fariñas M, Grishin A, Arif-Lusson R, Bourgoin P, Matthews K, Campbell DE, Busnel JM, Sampson HA",
+      "journal": "The journal of allergy and clinical immunology. In practice",
+      "year": "2024",
+      "doi": "10.1016/j.jaip.2024.09.007"
+    },
+    {
+      "pmid": "39154658",
+      "title": "Utility of epitope-specific IgE, IgG4, and IgG1 antibodies for the diagnosis of wheat allergy.",
+      "authors": "Srisuwatchari W, Suárez-Fariñas M, Delgado AD, Grishina G, Suprun M, Sang Eun Lee A, Vichyanond P, Pacharn P, Sampson HA",
+      "journal": "The Journal of allergy and clinical immunology",
+      "year": "2024",
+      "doi": "10.1016/j.jaci.2024.08.003"
+    },
+    {
+      "pmid": "39148827",
+      "title": "A foundational transformer leveraging full night, multichannel sleep study data accurately classifies sleep stages.",
+      "authors": "Fox B, Jiang J, Wickramaratne S, Kovatch P, Suarez-Farinas M, Shah NA, Parekh A, Nadkarni GN",
+      "journal": "medRxiv : the preprint server for health sciences",
+      "year": "2024",
+      "doi": "10.1101/2024.08.02.24311417"
+    },
+    {
+      "pmid": "38826293",
+      "title": "Gastrointestinal germinal center B cell depletion and reduction in IgA (+) plasma cells in HIV-1 infection.",
+      "authors": "Cossarini F, Shang J, Krek A, Al-Taie Z, Hou R, Canales-Herrerias P, Tokuyama M, Tankelevich M, Tillowiz A, Jha D, Livanos AE, Leyre L, Uzzan M, Martinez-Delgado G, Taylor MD, Sharma K, Bourgonje AR, Cruz M, Ioannou G, Dawson T, D'Souza D, Kim-Schulze S, Akm A, Aberg JA, Chen BK, Kwon DS, Gnjatic S, Polydorides AD, Cerutti A, Argmann C, Vujkovic-Cvijin I, Suarez-Fariñas M, Petralia F, Faith JJ, Mehandru S",
+      "journal": "bioRxiv : the preprint server for biology",
+      "year": "2024",
+      "doi": "10.1101/2024.05.17.590425"
+    },
+    {
+      "pmid": "38772365",
+      "title": "Metabolic coordination between skin epithelium and type 17 immunity sustains chronic skin inflammation.",
+      "authors": "Subudhi I, Konieczny P, Prystupa A, Castillo RL, Sze-Tu E, Xing Y, Rosenblum D, Reznikov I, Sidhu I, Loomis C, Lu CP, Anandasabapathy N, Suárez-Fariñas M, Gudjonsson JE, Tsirigos A, Scher JU, Naik S",
+      "journal": "Immunity",
+      "year": "2024",
+      "doi": "10.1016/j.immuni.2024.04.022"
+    },
+    {
+      "pmid": "38663404",
+      "title": "Multimodal single-cell analyses reveal mechanisms of perianal fistula in diverse patients with Crohn's disease.",
+      "authors": "Levantovsky RM, Tastad C, Zhang J, Gettler K, Sabic K, Werner R, Chasteau C, Korie U, Paguay D, Bao M, Han H, Maskey N, Talware S, Patel M, Argmann C, Suarez-Farinas M, Harpaz N, Chuang LS, Cho JH",
+      "journal": "Med (New York, N.Y.)",
+      "year": "2024",
+      "doi": "10.1016/j.medj.2024.03.021"
+    },
+    {
+      "pmid": "38640252",
+      "title": "Gut-associated lymphoid tissue attrition associates with response to anti-α4β7 therapy in ulcerative colitis.",
+      "authors": "Canales-Herrerias P, Uzzan M, Seki A, Czepielewski RS, Verstockt B, Livanos AE, Raso F, Dunn A, Dai D, Wang A, Al-Taie Z, Martin J, Laurent T, Ko HM, Tokuyama M, Tankelevich M, Meringer H, Cossarini F, Jha D, Krek A, Paulsen JD, Taylor MD, Nakadar MZ, Wong J, Erlich EC, Mintz RL, Onufer EJ, Helmink BA, Sharma K, Rosenstein A, Ganjian D, Chung G, Dawson T, Juarez J, Yajnik V, Cerutti A, Faith JJ, Suarez-Farinas M, Argmann C, Petralia F, Randolph GJ, Polydorides AD, Reboldi A, Colombel JF, Mehandru S",
+      "journal": "Science immunology",
+      "year": "2024",
+      "doi": "10.1126/sciimmunol.adg7549"
+    },
+    {
+      "pmid": "38592223",
+      "title": "Achieving Better Understanding of Obstructive Sleep Apnea Treatment Effects on Cardiovascular Disease Outcomes through Machine Learning Approaches: A Narrative Review.",
+      "authors": "Cohen O, Kundel V, Robson P, Al-Taie Z, Suárez-Fariñas M, Shah NA",
+      "journal": "Journal of clinical medicine",
+      "year": "2024",
+      "doi": "10.3390/jcm13051415"
+    },
+    {
+      "pmid": "38562892",
+      "title": "Integrated multiomics implicates dysregulation of ECM and cell adhesion pathways as drivers of severe COVID-associated kidney injury.",
+      "authors": "Anandakrishnan N, Yi Z, Sun Z, Liu T, Haydak J, Eddy S, Jayaraman P, DeFronzo S, Saha A, Sun Q, Yang D, Mendoza A, Mosoyan G, Wen HH, Schaub JA, Fu J, Kehrer T, Menon R, Otto EA, Godfrey B, Suarez-Farinas M, Leffters S, Twumasi A, Meliambro K, Charney AW, García-Sastre A, Campbell KN, Gusella GL, He JC, Miorin L, Nadkarni GN, Wisnivesky J, Li H, Kretzler M, Coca SG, Chan L, Zhang W, Azeloglu EU",
+      "journal": "medRxiv : the preprint server for health sciences",
+      "year": "2024",
+      "doi": "10.1101/2024.03.18.24304401"
+    },
+    {
+      "pmid": "38510715",
+      "title": "Evidence That Anemia Accelerates AS Progression Via Shear-Induced TGF-β1 Activation: Heyde's Syndrome Comes Full Circle.",
+      "authors": "Subramani K, Bander J, Chen S, Suárez-Fariñas M, Venkatesan T, Subrahmanian S, Varshney R, Kini A, Sharma S, Rifkin DB, Cho J, Coller BS, Ahamed J",
+      "journal": "JACC. Basic to translational science",
+      "year": "2024",
+      "doi": "10.1016/j.jacbts.2023.09.007"
+    },
+    {
+      "pmid": "38358332",
+      "title": "Heterogeneous Effects of Continuous Positive Airway Pressure in Non-Sleepy Obstructive Sleep Apnea on Cardiovascular Disease Outcomes: Post Hoc Machine Learning Analysis of the ISAACC Trial (ECSACT Study).",
+      "authors": "Cohen O, Sánchez-de-la-Torre M, Al-Taie Z, Khan S, Kundel V, Kovacic JC, Gracia-Lavedan E, De Batlle J, Nadkarni G, Barbé F, Suárez-Fariñas M, Shah NA",
+      "journal": "Annals of the American Thoracic Society",
+      "year": "2024",
+      "doi": "10.1513/AnnalsATS.202309-799OC"
+    },
+    {
+      "pmid": "38329124",
+      "title": "Gene coexpression networks reveal a broad role for lncRNAs in inflammatory bowel disease.",
+      "authors": "Johnson JL, Sargsyan D, Neiman EM, Hart A, Stojmirovic A, Kosoy R, Irizar H, Suárez-Fariñas M, Song WM, Argmann C, Avey S, Shmuel-Galia L, Vierbuchen T, Bongers G, Sun Y, Edelstein L, Perrigoue J, Towne JE, Hall AO, Fitzgerald KA, Hoebe K",
+      "journal": "JCI insight",
+      "year": "2024",
+      "doi": "10.1172/jci.insight.168988"
+    },
+    {
+      "pmid": "38240024",
+      "title": "Deep resolution of clinical, cellular and transcriptomic inflammatory markers of psoriasis over 52 weeks of interleukin-17A inhibition by secukinumab.",
+      "authors": "Tomalin LE, Kolbinger F, Suprun M, Wharton KA Jr, Hartmann N, Peters T, Glueck A, Milutinovic M, Krueger JG, Suárez-Fariñas M",
+      "journal": "Clinical and experimental dermatology",
+      "year": "2024",
+      "doi": "10.1093/ced/llae006"
+    },
+    {
+      "pmid": "38155462",
+      "title": "Infarct-related structural disconnection and delirium in surgical aortic valve replacement patients.",
+      "authors": "Browndyke JN, Tomalin LE, Erus G, Overbey JR, Kuceyeski A, Moskowitz AJ, Bagiella E, Iribarne A, Acker M, Mack M, Mathew J, O'Gara P, Gelijns AC, Suarez-Farinas M, Messé SR, Cardiothoracic Surgical Trials Network (CTSN) Investigators",
+      "journal": "Annals of clinical and translational neurology",
+      "year": "2024",
+      "doi": "10.1002/acn3.51949"
+    },
+    {
+      "pmid": "37961671",
+      "title": "Peripheral Transcriptomics in Acute and Long-Term Kidney Dysfunction in SARS-CoV2 Infection.",
+      "authors": "Jayaraman P, Rajagopal M, Paranjpe I, Liharska L, Suarez-Farinas M, Thompson R, Del Valle DM, Beckmann N, Oh W, Gulamali FF, Kauffman J, Gonzalez-Kozlova E, Dellepiane S, Vasquez-Rios G, Vaid A, Jiang J, Chen A, Sakhuja A, Chen S, Kenigsberg E, He JC, Coca SG, Chan L, Schadt E, Merad M, Kim-Schulze S, Gnjatic S, Tsalik E, Langley R, Charney AW, Nadkarni GN",
+      "journal": "medRxiv : the preprint server for health sciences",
+      "year": "2023",
+      "doi": "10.1101/2023.10.25.23297469"
+    },
+    {
+      "pmid": "37879386",
+      "title": "Development of a prediction model of postpartum hospital use using an equity-focused approach.",
+      "authors": "Janevic T, Tomalin LE, Glazer KB, Boychuk N, Kern-Goldberger A, Burdick M, Howell F, Suarez-Farinas M, Egorova N, Zeitlin J, Hebert P, Howell EA",
+      "journal": "American journal of obstetrics and gynecology",
+      "year": "2024",
+      "doi": "10.1016/j.ajog.2023.10.033"
+    },
+    {
+      "pmid": "37820029",
+      "title": "Investigation of plaque psoriasis relapse after secukinumab withdrawal in patients from two phase III studies.",
+      "authors": "Lebwohl M, Iversen L, Eidsmo L, Krueger JG, Suárez-Fariñas M, Tomalin L, Kolbinger F, You R, Milutinovic M",
+      "journal": "Clinical and experimental dermatology",
+      "year": "2024",
+      "doi": "10.1093/ced/llad329"
+    },
+    {
+      "pmid": "37812781",
+      "title": "Implications of the Use of Artificial Intelligence Predictive Models in Health Care Settings : A Simulation Study.",
+      "authors": "Vaid A, Sawant A, Suarez-Farinas M, Lee J, Kaul S, Kovatch P, Freeman R, Jiang J, Jayaraman P, Fayad Z, Argulian E, Lerakis S, Charney AW, Wang F, Levin M, Glicksberg B, Narula J, Hofer I, Singh K, Nadkarni GN",
+      "journal": "Annals of internal medicine",
+      "year": "2023",
+      "doi": "10.7326/M23-0949"
+    },
+    {
+      "pmid": "37333091",
+      "title": "Myeloid cell influx into the colonic epithelium is associated with disease severity and non-response to anti-Tumor Necrosis Factor Therapy in patients with Ulcerative Colitis.",
+      "authors": "Jha D, Al-Taie Z, Krek A, Eshghi ST, Fantou A, Laurent T, Tankelevich M, Cao X, Meringer H, Livanos AE, Tokuyama M, Cossarini F, Bourreille A, Josien R, Hou R, Canales-Herrerias P, Ungaro RC, Kayal M, Marion J, Polydorides AD, Ko HM, D'souza D, Merand R, Kim-Schulze S, Hackney JA, Nguyen A, McBride JM, Yuan GC, Colombel JF, Martin JC, Argmann C, Suárez-Fariñas M, Petralia F, Mehandru S",
+      "journal": "bioRxiv : the preprint server for biology",
+      "year": "2023",
+      "doi": "10.1101/2023.06.02.542863"
+    },
+    {
+      "pmid": "37308534",
+      "title": "Proteomic characterization of acute kidney injury in patients hospitalized with SARS-CoV2 infection.",
+      "authors": "Paranjpe I, Jayaraman P, Su CY, Zhou S, Chen S, Thompson R, Del Valle DM, Kenigsberg E, Zhao S, Jaladanki S, Chaudhary K, Ascolillo S, Vaid A, Gonzalez-Kozlova E, Kauffman J, Kumar A, Paranjpe M, Hagan RO, Kamat S, Gulamali FF, Xie H, Harris J, Patel M, Argueta K, Batchelor C, Nie K, Dellepiane S, Scott L, Levin MA, He JC, Suarez-Farinas M, Coca SG, Chan L, Azeloglu EU, Schadt E, Beckmann N, Gnjatic S, Merad M, Kim-Schulze S, Richards B, Glicksberg BS, Charney AW, Nadkarni GN",
+      "journal": "Communications medicine",
+      "year": "2023",
+      "doi": "10.1038/s43856-023-00307-8"
+    },
+    {
+      "pmid": "37143859",
+      "title": "A machine learning approach to determine resilience utilizing wearable device data: analysis of an observational cohort.",
+      "authors": "Hirten RP, Suprun M, Danieletto M, Zweig M, Golden E, Pyzik R, Kaur S, Helmus D, Biello A, Landell K, Rodrigues J, Bottinger EP, Keefer L, Charney D, Nadkarni GN, Suarez-Farinas M, Fayad ZA",
+      "journal": "JAMIA open",
+      "year": "2023",
+      "doi": "10.1093/jamiaopen/ooad029"
+    },
+    {
+      "pmid": "37087097",
+      "title": "Double-Blind, Placebo-Controlled Study of E-B-FAHF-2 in Combination With Omalizumab-Facilitated Multiallergen Oral Immunotherapy.",
+      "authors": "Wang J, Wood RA, Raymond S, Suárez-Fariñas M, Yang N, Sicherer SH, Sampson HA, Li XM",
+      "journal": "The journal of allergy and clinical immunology. In practice",
+      "year": "2023",
+      "doi": "10.1016/j.jaip.2023.03.051"
+    },
+    {
+      "pmid": "37075483",
+      "title": "Density of Biopsy Sampling Required to Ensure Accurate Histological Assessment of Inflammation in Active Ulcerative Colitis.",
+      "authors": "McBride RB, Suarez-Farinas M, Ko HM, Chen X, Liu Q, Harpaz N",
+      "journal": "Inflammatory bowel diseases",
+      "year": "2023",
+      "doi": "10.1093/ibd/izad063"
+    },
+    {
+      "pmid": "36993735",
+      "title": "Proteomic Characterization of Acute Kidney Injury in Patients Hospitalized with SARS-CoV2 Infection.",
+      "authors": "Nadkami G, Paranjpe I, Jayaraman P, Su CY, Zhou S, Chen S, Valle DD, Thompson R, Kenigsberg E, Zhao S, Jaladanki S, Chaudhary K, Ascolillo S, Vaid A, Gonzalez-Kozlova E, Kumar A, Paranjpe M, O'Hagan R, Kamat S, Gulamali F, Kauffman J, Xie H, Harris J, Patel M, Argueta K, Batchelor C, Nie K, Dellepiane S, Scott L, Levin M, He J, Suárez-Fariñas M, Coca S, Chan L, Azeloglu E, Schadt E, Beckmann N, Gnjatic S, Merad M, Kim-Schulze S, Richards JB, Glicksberg B, Charney A",
+      "journal": "Research square",
+      "year": "2023",
+      "doi": "10.21203/rs.3.rs-2379226/v1"
+    },
+    {
+      "pmid": "36877302",
+      "title": "Baroreflex sensitivity is associated with markers of hippocampal gliosis and dysmyelination in patients with psychosis.",
+      "authors": "Mueller B, Robinson-Papp J, Suprun M, Suarez-Farinas M, Lotan E, Gonen O, Malaspina D",
+      "journal": "Clinical autonomic research : official journal of the Clinical Autonomic Research Society",
+      "year": "2023",
+      "doi": "10.1007/s10286-023-00929-x"
+    },
+    {
+      "pmid": "36780659",
+      "title": "Advanced Proteomics and Cluster Analysis for Identifying Novel Obstructive Sleep Apnea Subtypes before and after Continuous Positive Airway Pressure Therapy.",
+      "authors": "Kundel V, Cohen O, Khan S, Patel M, Kim-Schulze S, Kovacic J, Suárez-Fariñas M, Shah NA",
+      "journal": "Annals of the American Thoracic Society",
+      "year": "2023",
+      "doi": "10.1513/AnnalsATS.202210-897OC"
+    },
+    {
+      "pmid": "36711839",
+      "title": "Gut-associated lymphoid tissue attrition associates with response to anti-α4β7 therapy in ulcerative colitis.",
+      "authors": "Canales-Herrerias P, Uzzan M, Seki A, Czepielewski RS, Verstockt B, Livanos A, Raso F, Dunn A, Dai D, Wang A, Al-Taie Z, Martin J, Ko HM, Tokuyama M, Tankelevich M, Meringer H, Cossarini F, Jha D, Krek A, Paulsen JD, Nakadar MZ, Wong J, Erlich EC, Onufer EJ, Helmink BA, Sharma K, Rosenstein A, Chung G, Dawson T, Juarez J, Yajnik V, Cerutti A, Faith J, Suarez-Farinas M, Argmann C, Petralia F, Randolph GJ, Polydorides AD, Reboldi A, Colombel JF, Mehandru S",
+      "journal": "bioRxiv : the preprint server for biology",
+      "year": "2023",
+      "doi": "10.1101/2023.01.19.524731"
+    },
+    {
+      "pmid": "36502801",
+      "title": "Epitope-Specific IgE at 1 Year of Age Can Predict Peanut Allergy Status at 5 Years.",
+      "authors": "Grinek S, Suprun M, Raghunathan R, Tomalin LE, Getts R, Bahnson T, Lack G, Sampson HA, Suarez-Farinas M",
+      "journal": "International archives of allergy and immunology",
+      "year": "2023",
+      "doi": "10.1159/000526364"
+    },
+    {
+      "pmid": "36476449",
+      "title": "Pharyngeal Inflammation on Positron Emission Tomography/Magnetic Resonance Imaging Before and After Obstructive Sleep Apnea Treatment.",
+      "authors": "Cohen O, Kaufman AE, Choi H, Khan S, Robson PM, Suárez-Fariñas M, Mani V, Shah NA",
+      "journal": "Annals of the American Thoracic Society",
+      "year": "2023",
+      "doi": "10.1513/AnnalsATS.202207-594OC"
+    },
+    {
+      "pmid": "36321870",
+      "title": "In children with eczema, expansion of epitope-specific IgE is associated with peanut allergy at 5 years of age.",
+      "authors": "Suprun M, Bahnson HT, du Toit G, Lack G, Suarez-Farinas M, Sampson HA",
+      "journal": "Allergy",
+      "year": "2023",
+      "doi": "10.1111/all.15572"
+    },
+    {
+      "pmid": "36316476",
+      "title": "Pan-vaccine analysis reveals innate immune endotypes predictive of antibody responses to vaccination.",
+      "authors": "Fourati S, Tomalin LE, Mulè MP, Chawla DG, Gerritsen B, Rychkov D, Henrich E, Miller HER, Hagan T, Diray-Arce J, Dunn P, Human Immunology Project Consortium (HIPC), Levy O, Gottardo R, Sarwal MM, Tsang JS, Suárez-Fariñas M, Pulendran B, Kleinstein SH, Sékaly RP",
+      "journal": "Nature immunology",
+      "year": "2022",
+      "doi": "10.1038/s41590-022-01329-5"
+    },
+    {
+      "pmid": "36316475",
+      "title": "Transcriptional atlas of the human immune response to 13 vaccines reveals a common predictor of vaccine-induced antibody responses.",
+      "authors": "Hagan T, Gerritsen B, Tomalin LE, Fourati S, Mulè MP, Chawla DG, Rychkov D, Henrich E, Miller HER, Diray-Arce J, Dunn P, Lee A, Human Immunology Project Consortium (HIPC), Levy O, Gottardo R, Sarwal MM, Tsang JS, Suárez-Fariñas M, Sékaly RP, Kleinstein SH, Pulendran B",
+      "journal": "Nature immunology",
+      "year": "2022",
+      "doi": "10.1038/s41590-022-01328-6"
+    },
+    {
+      "pmid": "36266291",
+      "title": "The Immune Signatures data resource, a compendium of systems vaccinology datasets.",
+      "authors": "Diray-Arce J, Miller HER, Henrich E, Gerritsen B, Mulè MP, Fourati S, Gygi J, Hagan T, Tomalin L, Rychkov D, Kazmin D, Chawla DG, Meng H, Dunn P, Campbell J, Human Immunology Project Consortium (HIPC), Sarwal M, Tsang JS, Levy O, Pulendran B, Sekaly R, Floratos A, Gottardo R, Kleinstein SH, Suárez-Fariñas M",
+      "journal": "Scientific data",
+      "year": "2022",
+      "doi": "10.1038/s41597-022-01714-7"
+    },
+    {
+      "pmid": "36109152",
+      "title": "Biopsy and blood-based molecular biomarker of inflammation in IBD.",
+      "authors": "Argmann C, Hou R, Ungaro RC, Irizar H, Al-Taie Z, Huang R, Kosoy R, Venkat S, Song WM, Di'Narzo AF, Losic B, Hao K, Peters L, Comella PH, Wei G, Atreja A, Mahajan M, Iuga A, Desai PT, Branigan P, Stojmirovic A, Perrigoue J, Brodmerkel C, Curran M, Friedman JR, Hart A, Lamousé-Smith E, Wehkamp J, Mehandru S, Schadt EE, Sands BE, Dubinsky MC, Colombel JF, Kasarskis A, Suárez-Fariñas M",
+      "journal": "Gut",
+      "year": "2023",
+      "doi": "10.1136/gutjnl-2021-326451"
+    },
+    {
+      "pmid": "36093350",
+      "title": "Proteomic Characterization of Acute Kidney Injury in Patients Hospitalized with SARS-CoV2 Infection.",
+      "authors": "Paranjpe I, Jayaraman P, Su CY, Zhou S, Chen S, Thompson R, Del Valle DM, Kenigsberg E, Zhao S, Jaladanki S, Chaudhary K, Ascolillo S, Vaid A, Kumar A, Kozlova E, Paranjpe M, O'Hagan R, Kamat S, Gulamali FF, Kauffman J, Xie H, Harris J, Patel M, Argueta K, Batchelor C, Nie K, Dellepiane S, Scott L, Levin MA, He JC, Suarez-Farinas M, Coca SG, Chan L, Azeloglu EU, Schadt E, Beckmann N, Gnjatic S, Merad M, Kim-Schulze S, Richards B, Glicksberg BS, Charney AW, Nadkarni GN",
+      "journal": "medRxiv : the preprint server for health sciences",
+      "year": "2022",
+      "doi": "10.1101/2021.12.09.21267548"
+    },
+    {
+      "pmid": "35677186",
+      "title": "Evaluation of a machine learning approach utilizing wearable data for prediction of SARS-CoV-2 infection in healthcare workers.",
+      "authors": "Hirten RP, Tomalin L, Danieletto M, Golden E, Zweig M, Kaur S, Helmus D, Biello A, Pyzik R, Bottinger EP, Keefer L, Charney D, Nadkarni GN, Suarez-Farinas M, Fayad ZA",
+      "journal": "JAMIA open",
+      "year": "2022",
+      "doi": "10.1093/jamiaopen/ooac041"
+    },
+    {
+      "pmid": "35581542",
+      "title": "Correction: cosinoRmixedeffects: an R package for mixed-effects cosinor models.",
+      "authors": "Hou R, Tomalin LE, Suárez-Fariñas M",
+      "journal": "BMC bioinformatics",
+      "year": "2022",
+      "doi": "10.1186/s12859-022-04713-y"
+    },
+    {
+      "pmid": "35537413",
+      "title": "An activation to memory differentiation trajectory of tumor-infiltrating lymphocytes informs metastatic melanoma outcomes.",
+      "authors": "Jaiswal A, Verma A, Dannenfelser R, Melssen M, Tirosh I, Izar B, Kim TG, Nirschl CJ, Devi KSP, Olson WC Jr, Slingluff CL Jr, Engelhard VH, Garraway L, Regev A, Minkis K, Yoon CH, Troyanskaya O, Elemento O, Suárez-Fariñas M, Anandasabapathy N",
+      "journal": "Cancer cell",
+      "year": "2022",
+      "doi": "10.1016/j.ccell.2022.04.005"
+    },
+    {
+      "pmid": "35511431",
+      "title": "The innate immune response following multivalent dengue vaccination and implications for protection against dengue challenge.",
+      "authors": "Hou R, Tomalin LE, Silva JP, Kim-Schulze S, Whitehead SS, Fernandez-Sesma A, Durbin AP, Suárez-Fariñas M",
+      "journal": "JCI insight",
+      "year": "2022",
+      "doi": "10.1172/jci.insight.157811"
+    },
+    {
+      "pmid": "35190725",
+      "title": "Ulcerative colitis is characterized by a plasmablast-skewed humoral response associated with disease activity.",
+      "authors": "Uzzan M, Martin JC, Mesin L, Livanos AE, Castro-Dopico T, Huang R, Petralia F, Magri G, Kumar S, Zhao Q, Rosenstein AK, Tokuyama M, Sharma K, Ungaro R, Kosoy R, Jha D, Fischer J, Singh H, Keir ME, Ramamoorthi N, O'Gorman WE, Cohen BL, Rahman A, Cossarini F, Seki A, Leyre L, Vaquero ST, Gurunathan S, Grasset EK, Losic B, Dubinsky M, Greenstein AJ, Gottlieb Z, Legnani P, George J, Irizar H, Stojmirovic A, Brodmerkel C, Kasarkis A, Sands BE, Furtado G, Lira SA, Tuong ZK, Ko HM, Cerutti A, Elson CO, Clatworthy MR, Merad M, Suárez-Fariñas M, Argmann C, Hackney JA, Victora GD, Randolph GJ, Kenigsberg E, Colombel JF, Mehandru S",
+      "journal": "Nature medicine",
+      "year": "2022",
+      "doi": "10.1038/s41591-022-01680-y"
+    },
+    {
+      "pmid": "34981778",
+      "title": "HLA alleles and sustained peanut consumption promote IgG4 responses in subjects protected from peanut allergy.",
+      "authors": "Kanchan K, Grinek S, Bahnson HT, Ruczinski I, Shankar G, Larson D, Du Toit G, Barnes KC, Sampson HA, Suarez-Farinas M, Lack G, Nepom GT, Cerosaletti K, Mathias RA",
+      "journal": "The Journal of clinical investigation",
+      "year": "2022",
+      "doi": "10.1172/JCI152070"
+    },
+    {
+      "pmid": "34818647",
+      "title": "Mapping Sequential IgE-Binding Epitopes on Major and Minor Egg Allergens.",
+      "authors": "Suprun M, Sicherer SH, Wood RA, Jones SM, Leung DYM, Burks AW, Dunkin D, Witmer M, Grishina G, Getts R, Suárez-Fariñas M, Sampson HA",
+      "journal": "International archives of allergy and immunology",
+      "year": "2022",
+      "doi": "10.1159/000519618"
+    },
+    {
+      "pmid": "34780722",
+      "title": "Integrative Analysis of the Inflammatory Bowel Disease Serum Metabolome Improves Our Understanding of Genetic Etiology and Points to Novel Putative Therapeutic Targets.",
+      "authors": "Di'Narzo AF, Houten SM, Kosoy R, Huang R, Vaz FM, Hou R, Wei G, Wang W, Comella PH, Dodatko T, Rogatsky E, Stojmirovic A, Brodmerkel C, Perrigoue J, Hart A, Curran M, Friedman JR, Zhu J, Agrawal M, Cho J, Ungaro R, Dubinsky MC, Sands BE, Suárez-Fariñas M, Schadt EE, Colombel JF, Kasarskis A, Hao K, Argmann C",
+      "journal": "Gastroenterology",
+      "year": "2022",
+      "doi": "10.1053/j.gastro.2021.11.015"
+    },
+    {
+      "pmid": "34773978",
+      "title": "cosinoRmixedeffects: an R package for mixed-effects cosinor models.",
+      "authors": "Hou R, Tomalin LE, Suárez-Fariñas M",
+      "journal": "BMC bioinformatics",
+      "year": "2021",
+      "doi": "10.1186/s12859-021-04463-3"
+    },
+    {
+      "pmid": "34625743",
+      "title": "Author Correction: A molecular single-cell lung atlas of lethal COVID-19.",
+      "authors": "Melms JC, Biermann J, Huang H, Wang Y, Nair A, Tagore S, Katsyv I, Rendeiro AF, Amin AD, Schapiro D, Frangieh CJ, Luoma AM, Filliol A, Fang Y, Ravichandran H, Clausi MG, Alba GA, Rogava M, Chen SW, Ho P, Montoro DT, Kornberg AE, Han AS, Bakhoum MF, Anandasabapathy N, Suárez-Fariñas M, Bakhoum SF, Bram Y, Borczuk A, Guo XV, Lefkowitch JH, Marboe C, Lagana SM, Del Portillo A, Tsai EJ, Zorn E, Markowitz GS, Schwabe RF, Schwartz RE, Elemento O, Saqi A, Hibshoosh H, Que J, Izar B",
+      "journal": "Nature",
+      "year": "2021",
+      "doi": "10.1038/s41586-021-03921-5"
+    },
+    {
+      "pmid": "34480882",
+      "title": "Molecular Characterization of Limited Ulcerative Colitis Reveals Novel Biology and Predictors of Disease Extension.",
+      "authors": "Argmann C, Tokuyama M, Ungaro RC, Huang R, Hou R, Gurunathan S, Kosoy R, Di'Narzo A, Wang W, Losic B, Irizar H, Peters L, Stojmirovic A, Wei G, Comella PH, Curran M, Brodmerkel C, Friedman JR, Hao K, Schadt EE, Zhu J, Cho J, Harpaz N, Dubinsky MC, Sands BE, Kasarskis A, Mehandru S, Colombel JF, Suárez-Fariñas M",
+      "journal": "Gastroenterology",
+      "year": "2021",
+      "doi": "10.1053/j.gastro.2021.08.053"
+    },
+    {
+      "pmid": "34450030",
+      "title": "Stratification of risk of progression to colectomy in ulcerative colitis via measured and predicted gene expression.",
+      "authors": "Mo A, Nagpal S, Gettler K, Haritunians T, Giri M, Haberman Y, Karns R, Prince J, Arafat D, Hsu NY, Chuang LS, Argmann C, Kasarskis A, Suarez-Farinas M, Gotman N, Mengesha E, Venkateswaran S, Rufo PA, Baker SS, Sauer CG, Markowitz J, Pfefferkorn MD, Rosh JR, Boyle BM, Mack DR, Baldassano RN, Shah S, LeLeiko NS, Heyman MB, Griffiths AM, Patel AS, Noe JD, Davis Thomas S, Aronow BJ, Walters TD, McGovern DPB, Hyams JS, Kugathasan S, Cho JH, Denson LA, Gibson G",
+      "journal": "American journal of human genetics",
+      "year": "2021",
+      "doi": "10.1016/j.ajhg.2021.07.013"
+    },
+    {
+      "pmid": "34379602",
+      "title": "Factors Associated With Longitudinal Psychological and Physiological Stress in Health Care Workers During the COVID-19 Pandemic: Observational Study Using Apple Watch Data.",
+      "authors": "Hirten RP, Danieletto M, Tomalin L, Choi KH, Zweig M, Golden E, Kaur S, Helmus D, Biello A, Pyzik R, Calcagno C, Freeman R, Sands BE, Charney D, Bottinger EP, Murrough JW, Keefer L, Suarez-Farinas M, Nadkarni GN, Fayad ZA",
+      "journal": "Journal of medical Internet research",
+      "year": "2021",
+      "doi": "10.2196/31295"
+    },
+    {
+      "pmid": "33991353",
+      "title": "Accurate and reproducible diagnosis of peanut allergy using epitope mapping.",
+      "authors": "Suárez-Fariñas M, Suprun M, Kearney P, Getts R, Grishina G, Hayward C, Luta D, Porter A, Witmer M, du Toit G, Lack G, Chinthrajah RS, Galli SJ, Nadeau K, Sampson HA",
+      "journal": "Allergy",
+      "year": "2021",
+      "doi": "10.1111/all.14905"
+    },
+    {
+      "pmid": "33928163",
+      "title": "GEE-TGDR: A Longitudinal Feature Selection Algorithm and Its Application to lncRNA Expression Profiles for Psoriasis Patients Treated with Immune Therapies.",
+      "authors": "Tian S, Wang C, Suarez-Farinas M",
+      "journal": "BioMed research international",
+      "year": "2021",
+      "doi": "10.1155/2021/8862895"
+    },
+    {
+      "pmid": "33915568",
+      "title": "A molecular single-cell lung atlas of lethal COVID-19.",
+      "authors": "Melms JC, Biermann J, Huang H, Wang Y, Nair A, Tagore S, Katsyv I, Rendeiro AF, Amin AD, Schapiro D, Frangieh CJ, Luoma AM, Filliol A, Fang Y, Ravichandran H, Clausi MG, Alba GA, Rogava M, Chen SW, Ho P, Montoro DT, Kornberg AE, Han AS, Bakhoum MF, Anandasabapathy N, Suárez-Fariñas M, Bakhoum SF, Bram Y, Borczuk A, Guo XV, Lefkowitch JH, Marboe C, Lagana SM, Del Portillo A, Tsai EJ, Zorn E, Markowitz GS, Schwabe RF, Schwartz RE, Elemento O, Saqi A, Hibshoosh H, Que J, Izar B",
+      "journal": "Nature",
+      "year": "2021",
+      "doi": "10.1038/s41586-021-03569-1"
+    },
+    {
+      "pmid": "33868931",
+      "title": "Dietary restriction in the long-chain acyl-CoA dehydrogenase knockout mouse.",
+      "authors": "Diekman EF, van Weeghel M, Suárez-Fariñas M, Argmann C, Ranea-Robles P, Wanders RJA, Visser G, van der Made I, Creemers EE, Houten SM",
+      "journal": "Molecular genetics and metabolism reports",
+      "year": "2021",
+      "doi": "10.1016/j.ymgmr.2021.100749"
+    },
+    {
+      "pmid": "33828229",
+      "title": "Neonatal outcomes during the COVID-19 pandemic in New York City.",
+      "authors": "Richter F, Strasser AS, Suarez-Farinas M, Zhao S, Nadkarni GN, Jabs EW, Guttmann K, Glicksberg BS",
+      "journal": "Pediatric research",
+      "year": "2022",
+      "doi": "10.1038/s41390-021-01513-7"
+    },
+    {
+      "pmid": "33813036",
+      "title": "Deep Analysis of the Peripheral Immune System in IBD Reveals New Insight in Disease Subtyping and Response to Monotherapy or Combination Therapy.",
+      "authors": "Kosoy R, Kim-Schulze S, Rahman A, Friedman JR, Huang R, Peters LA, Amir EA, Perrigoue J, Stojmirovic A, Song WM, Ke H, Ungaro R, Mehandru S, Cho J, Dubinsky M, Curran M, Brodmerkel C, Schadt EE, Sands BE, Colombel JF, Kasarskis A, Argmann CA, Suárez-Fariñas M",
+      "journal": "Cellular and molecular gastroenterology and hepatology",
+      "year": "2021",
+      "doi": "10.1016/j.jcmgh.2021.03.012"
+    },
+    {
+      "pmid": "33592205",
+      "title": "Evolution of epitope-specific IgE and IgG(4) antibodies in children enrolled in the LEAP trial.",
+      "authors": "Suarez-Farinas M, Suprun M, Bahnson HT, Raghunathan R, Getts R, duToit G, Lack G, Sampson HA",
+      "journal": "The Journal of allergy and clinical immunology",
+      "year": "2021",
+      "doi": "10.1016/j.jaci.2021.01.030"
+    },
+    {
+      "pmid": "33564792",
+      "title": "A Molecular network approach reveals shared cellular and molecular signatures between chronic fatigue syndrome and other fatiguing illnesses.",
+      "authors": "Comella PH, Gonzalez-Kozlova E, Kosoy R, Charney AW, Peradejordi IF, Chandrasekar S, Tyler SR, Wang W, Losic B, Zhu J, Hoffman GE, Kim-Schulze S, Qi J, Patel M, Kasarskis A, Suarez-Farinas M, Gümüş ZH, Argmann C, Merad M, Becker C, Beckmann ND, Schadt EE",
+      "journal": "medRxiv : the preprint server for health sciences",
+      "year": "2021",
+      "doi": "10.1101/2021.01.29.21250755"
+    },
+    {
+      "pmid": "33529156",
+      "title": "Use of Physiological Data From a Wearable Device to Identify SARS-CoV-2 Infection and Symptoms and Predict COVID-19 Diagnosis: Observational Study.",
+      "authors": "Hirten RP, Danieletto M, Tomalin L, Choi KH, Zweig M, Golden E, Kaur S, Helmus D, Biello A, Pyzik R, Charney A, Miotto R, Glicksberg BS, Levin M, Nabeel I, Aberg J, Reich D, Charney D, Bottinger EP, Keefer L, Suarez-Farinas M, Nadkarni GN, Fayad ZA",
+      "journal": "Journal of medical Internet research",
+      "year": "2021",
+      "doi": "10.2196/26107"
+    },
+    {
+      "pmid": "33506502",
+      "title": "A novel approach to the basophil activation test for characterizing peanut allergic patients in the clinical setting.",
+      "authors": "Agyemang A, Suprun M, Suárez-Fariñas M, Boina F, Arif-Lusson R, Grishin A, Busnel JM, Sampson HA",
+      "journal": "Allergy",
+      "year": "2021",
+      "doi": "10.1111/all.14752"
+    },
+    {
+      "pmid": "33471075",
+      "title": "bbeaR: an R package and framework for epitope-specific antibody profiling.",
+      "authors": "Suprun M, Ellis RJ, Sampson HA, Suárez-Fariñas M",
+      "journal": "Bioinformatics (Oxford, England)",
+      "year": "2021",
+      "doi": "10.1093/bioinformatics/btaa1064"
+    },
+    {
+      "pmid": "33247560",
+      "title": "Deep learning-level melanoma detection by interpretable machine learning and imaging biomarker cues.",
+      "authors": "Gareau DS, Browning J, Correa Da Rosa J, Suarez-Farinas M, Lish S, Zong AM, Firester B, Vrattos C, Renert-Yuval Y, Gamboa M, Vallone MG, Barragán-Estudillo ZF, Tamez-Peña AL, Montoya J, Jesús-Silva MA, Carrera C, Malvehy J, Puig S, Marghoob A, Carucci JA, Krueger JG",
+      "journal": "Journal of biomedical optics",
+      "year": "2020",
+      "doi": "10.1117/1.JBO.25.11.112906"
+    },
+    {
+      "pmid": "33113259",
+      "title": "The erythema Q-score, an imaging biomarker for redness in skin inflammation.",
+      "authors": "Frew J, Penzi L, Suarez-Farinas M, Garcet S, Brunner PM, Czarnowicki T, Kim J, Bottomley C, Finney R, Cueto I, Fuentes-Duculan J, Ohmatsu H, Lentini T, Yanofsky V, Krueger JG, Guttman-Yassky E, Gareau D",
+      "journal": "Experimental dermatology",
+      "year": "2021",
+      "doi": "10.1111/exd.14224"
+    },
+    {
+      "pmid": "32980345",
+      "title": "Intestinal Inflammation Modulates the Expression of ACE2 and TMPRSS2 and Potentially Overlaps With the Pathogenesis of SARS-CoV-2-related Disease.",
+      "authors": "Suárez-Fariñas M, Tokuyama M, Wei G, Huang R, Livanos A, Jha D, Levescot A, Irizar H, Kosoy R, Cording S, Wang W, Losic B, Ungaro RC, Di'Narzo A, Martinez-Delgado G, Suprun M, Corley MJ, Stojmirovic A, Houten SM, Peters L, Curran M, Brodmerkel C, Perrigoue J, Friedman JR, Hao K, Schadt EE, Zhu J, Ko HM, Cho J, Dubinsky MC, Sands BE, Ndhlovu L, Cerf-Bensusan N, Kasarskis A, Colombel JF, Harpaz N, Argmann C, Mehandru S",
+      "journal": "Gastroenterology",
+      "year": "2021",
+      "doi": "10.1053/j.gastro.2020.09.029"
+    },
+    {
+      "pmid": "32795587",
+      "title": "Early epitope-specific IgE antibodies are predictive of childhood peanut allergy.",
+      "authors": "Suprun M, Sicherer SH, Wood RA, Jones SM, Leung DYM, Henning AK, Dawson P, Burks AW, Lindblad R, Getts R, Suárez-Fariñas M, Sampson HA",
+      "journal": "The Journal of allergy and clinical immunology",
+      "year": "2020",
+      "doi": "10.1016/j.jaci.2020.08.005"
+    },
+    {
+      "pmid": "32569749",
+      "title": "Effect of Concomitant Therapy With Steroids and Tumor Necrosis Factor Antagonists for Induction of Remission in Patients With Crohn's Disease: A Systematic Review and Pooled Meta-analysis.",
+      "authors": "Faleck DM, Shmidt E, Huang R, Katta LG, Narula N, Pinotti R, Suarez-Farinas M, Colombel JF",
+      "journal": "Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association",
+      "year": "2021",
+      "doi": "10.1016/j.cgh.2020.06.036"
+    },
+    {
+      "pmid": "32391917",
+      "title": "Ovomucoid epitope-specific repertoire of IgE, IgG(4) , IgG(1) , IgA(1) , and IgD antibodies in egg-allergic children.",
+      "authors": "Suprun M, Getts R, Grishina G, Tsuang A, Suárez-Fariñas M, Sampson HA",
+      "journal": "Allergy",
+      "year": "2020",
+      "doi": "10.1111/all.14357"
+    },
+    {
+      "pmid": "32348760",
+      "title": "Comprehensive Immunoprofiling of Pediatric Zika Reveals Key Role for Monocytes in the Acute Phase and No Effect of Prior Dengue Virus Infection.",
+      "authors": "Michlmayr D, Kim EY, Rahman AH, Raghunathan R, Kim-Schulze S, Che Y, Kalayci S, Gümüş ZH, Kuan G, Balmaseda A, Kasarskis A, Wolinsky SM, Suaréz-Fariñas M, Harris E",
+      "journal": "Cell reports",
+      "year": "2020",
+      "doi": "10.1016/j.celrep.2020.107569"
+    },
+    {
+      "pmid": "32051427",
+      "title": "Author Correction: Novel Bead-Based Epitope Assay is a sensitive and reliable tool for profiling epitope-specific antibody repertoire in food allergy.",
+      "authors": "Suprun M, Getts R, Raghunathan R, Grishina G, Witmer M, Gimenez G, Sampson HA, Suárez-Fariñas M",
+      "journal": "Scientific reports",
+      "year": "2020",
+      "doi": "10.1038/s41598-020-58951-2"
+    },
+    {
+      "pmid": "31972249",
+      "title": "Molecular and Cellular Responses to the TYK2/JAK1 Inhibitor PF-06700841 Reveal Reduction of Skin Inflammation in Plaque Psoriasis.",
+      "authors": "Page KM, Suarez-Farinas M, Suprun M, Zhang W, Garcet S, Fuentes-Duculan J, Li X, Scaramozza M, Kieras E, Banfield C, Clark JD, Fensome A, Krueger JG, Peeva E",
+      "journal": "The Journal of investigative dermatology",
+      "year": "2020",
+      "doi": "10.1016/j.jid.2019.11.027"
+    },
+    {
+      "pmid": "31883845",
+      "title": "Short-term transcriptional response to IL-17 receptor-A antagonism in the treatment of psoriasis.",
+      "authors": "Tomalin LE, Russell CB, Garcet S, Ewald DA, Klekotka P, Nirula A, Norsgaard H, Suàrez-Fariñas M, Krueger JG",
+      "journal": "The Journal of allergy and clinical immunology",
+      "year": "2020",
+      "doi": "10.1016/j.jaci.2019.10.041"
+    },
+    {
+      "pmid": "31804555",
+      "title": "Novel Bead-Based Epitope Assay is a sensitive and reliable tool for profiling epitope-specific antibody repertoire in food allergy.",
+      "authors": "Suprun M, Getts R, Raghunathan R, Grishina G, Witmer M, Gimenez G, Sampson HA, Suárez-Fariñas M",
+      "journal": "Scientific reports",
+      "year": "2019",
+      "doi": "10.1038/s41598-019-54868-7"
+    },
+    {
+      "pmid": "31705874",
+      "title": "Early Quantification of Systemic Inflammatory Proteins Predicts Long-Term Treatment Response to Tofacitinib and Etanercept.",
+      "authors": "Tomalin LE, Kim J, Correa da Rosa J, Lee J, Fitz LJ, Berstein G, Valdez H, Wolk R, Krueger JG, Suárez-Fariñas M",
+      "journal": "The Journal of investigative dermatology",
+      "year": "2020",
+      "doi": "10.1016/j.jid.2019.09.023"
+    },
+    {
+      "pmid": "31221798",
+      "title": "Prostate Cancer in World Trade Center Responders Demonstrates Evidence of an Inflammatory Cascade.",
+      "authors": "Gong Y, Wang L, Yu H, Alpert N, Cohen MD, Prophete C, Horton L, Sisco M, Park SH, Lee HW, Zelikoff J, Chen LC, Hashim D, Suarez-Farinas M, Donovan MJ, Aaronson SA, Galsky M, Zhu J, Taioli E, Oh WK",
+      "journal": "Molecular cancer research : MCR",
+      "year": "2019",
+      "doi": "10.1158/1541-7786.MCR-19-0115"
+    },
+    {
+      "pmid": "31166574",
+      "title": "Distribution of Self-reported Hidradenitis Suppurativa Age at Onset.",
+      "authors": "Naik HB, Paul M, Cohen SR, Alavi A, Suàrez-Fariñas M, Lowes MA",
+      "journal": "JAMA dermatology",
+      "year": "2019",
+      "doi": "10.1001/jamadermatol.2019.0478"
+    },
+    {
+      "pmid": "31129129",
+      "title": "IL-17A inhibition by secukinumab induces early clinical, histopathologic, and molecular resolution of psoriasis.",
+      "authors": "Krueger JG, Wharton KA Jr, Schlitt T, Suprun M, Torene RI, Jiang X, Wang CQ, Fuentes-Duculan J, Hartmann N, Peters T, Koroleva I, Hillenbrand R, Letzkus M, Yu X, Li Y, Glueck A, Hasselberg A, Flannery B, Suárez-Fariñas M, Hueber W",
+      "journal": "The Journal of allergy and clinical immunology",
+      "year": "2019",
+      "doi": "10.1016/j.jaci.2019.04.029"
+    },
+    {
+      "pmid": "30861068",
+      "title": "Erectile Dysfunction Is Highly Prevalent in Men With Newly Diagnosed Inflammatory Bowel Disease.",
+      "authors": "Shmidt E, Suárez-Fariñas M, Mallette M, Moniz H, Bright R, Shah SA, Merrick M, Shapiro J, Xu F, Saha S, Sands BE",
+      "journal": "Inflammatory bowel diseases",
+      "year": "2019",
+      "doi": "10.1093/ibd/izy401"
+    },
+    {
+      "pmid": "30852592",
+      "title": "Microbial Engraftment and Efficacy of Fecal Microbiota Transplant for Clostridium Difficile in Patients With and Without Inflammatory Bowel Disease.",
+      "authors": "Hirten RP, Grinspan A, Fu SC, Luo Y, Suarez-Farinas M, Rowland J, Contijoch EJ, Mogno I, Yang N, Luong T, Labrias PR, Peter I, Cho JH, Sands BE, Colombel JF, Faith JJ, Clemente JC",
+      "journal": "Inflammatory bowel diseases",
+      "year": "2019",
+      "doi": "10.1093/ibd/izy398"
+    },
+    {
+      "pmid": "30826287",
+      "title": "Magnesium supplementation in the treatment of pseudoxanthoma elasticum: A randomized trial.",
+      "authors": "Rose S, On SJ, Fuchs W, Chen C, Phelps R, Kornreich D, Haddican M, Singer G, Wong V, Baum D, Vekaria A, Gagliotti M, Huang R, Suárez-Fariñas M, Terry SF, Lebwohl M",
+      "journal": "Journal of the American Academy of Dermatology",
+      "year": "2019",
+      "doi": "10.1016/j.jaad.2019.02.055"
+    },
+    {
+      "pmid": "30726913",
+      "title": "A Longitudinal Study of Sexual Function in Women With Newly Diagnosed Inflammatory Bowel Disease.",
+      "authors": "Shmidt E, Suárez-Fariñas M, Mallette M, Moniz H, Bright R, Shah SA, Merrick M, Shapiro J, Xu F, Sands B, Saha S",
+      "journal": "Inflammatory bowel diseases",
+      "year": "2019",
+      "doi": "10.1093/ibd/izy397"
+    },
+    {
+      "pmid": "30703387",
+      "title": "Modulation of inflammatory gene transcripts in psoriasis vulgaris: Differences between ustekinumab and etanercept.",
+      "authors": "Brodmerkel C, Li K, Garcet S, Hayden K, Chiricozzi A, Novitskaya I, Fuentes-Duculan J, Suarez-Farinas M, Campbell K, Krueger JG",
+      "journal": "The Journal of allergy and clinical immunology",
+      "year": "2019",
+      "doi": "10.1016/j.jaci.2019.01.017"
+    },
+    {
+      "pmid": "30666957",
+      "title": "Gut microbiota density influences host physiology and is shaped by host and microbial factors.",
+      "authors": "Contijoch EJ, Britton GJ, Yang C, Mogno I, Li Z, Ng R, Llewellyn SR, Hira S, Johnson C, Rabinowitz KM, Barkan R, Dotan I, Hirten RP, Fu SC, Luo Y, Yang N, Luong T, Labrias PR, Lira S, Peter I, Grinspan A, Clemente JC, Kosoy R, Kim-Schulze S, Qin X, Castillo A, Hurley A, Atreja A, Rogers J, Fasihuddin F, Saliaj M, Nolan A, Reyes-Mercedes P, Rodriguez C, Aly S, Santa-Cruz K, Peters L, Suárez-Fariñas M, Huang R, Hao K, Zhu J, Zhang B, Losic B, Irizar H, Song WM, Di Narzo A, Wang W, Cohen BL, DiMaio C, Greenwald D, Itzkowitz S, Lucas A, Marion J, Maser E, Ungaro R, Naymagon S, Novak J, Shah B, Ullman T, Rubin P, George J, Legnani P, Telesco SE, Friedman JR, Brodmerkel C, Plevy S, Cho JH, Colombel JF, Schadt EE, Argmann C, Dubinsky M, Kasarskis A, Sands B, Faith JJ",
+      "journal": "eLife",
+      "year": "2019",
+      "doi": "10.7554/eLife.40553"
+    },
+    {
+      "pmid": "30528828",
+      "title": "A Phase 2 Randomized Trial of Apremilast in Patients with Atopic Dermatitis.",
+      "authors": "Simpson EL, Imafuku S, Poulin Y, Ungar B, Zhou L, Malik K, Wen HC, Xu H, Estrada YD, Peng X, Chen M, Shah N, Suarez-Farinas M, Pavel AB, Nograles K, Guttman-Yassky E",
+      "journal": "The Journal of investigative dermatology",
+      "year": "2019",
+      "doi": "10.1016/j.jid.2018.10.043"
+    },
+    {
+      "pmid": "30528770",
+      "title": "Predicting development of sustained unresponsiveness to milk oral immunotherapy using epitope-specific antibody binding profiles.",
+      "authors": "Suárez-Fariñas M, Suprun M, Chang HL, Gimenez G, Grishina G, Getts R, Nadeau K, Wood RA, Sampson HA",
+      "journal": "The Journal of allergy and clinical immunology",
+      "year": "2019",
+      "doi": "10.1016/j.jaci.2018.10.028"
+    },
+    {
+      "pmid": "30304481",
+      "title": "PlateDesigner: a web-based application for the design of microplate experiments.",
+      "authors": "Suprun M, Suárez-Fariñas M",
+      "journal": "Bioinformatics (Oxford, England)",
+      "year": "2019",
+      "doi": "10.1093/bioinformatics/bty853"
+    },
+    {
+      "pmid": "30265680",
+      "title": "Integrating the skin and blood transcriptomes and serum proteome in hidradenitis suppurativa reveals complement dysregulation and a plasma cell signature.",
+      "authors": "Hoffman LK, Tomalin LE, Schultz G, Howell MD, Anandasabapathy N, Alavi A, Suárez-Fariñas M, Lowes MA",
+      "journal": "PloS one",
+      "year": "2018",
+      "doi": "10.1371/journal.pone.0203672"
+    },
+    {
+      "pmid": "30247603",
+      "title": "Impact of Zostavax Vaccination on T-Cell Accumulation and Cutaneous Gene Expression in the Skin of Older Humans After Varicella Zoster Virus Antigen-Specific Challenge.",
+      "authors": "Patel NP, Vukmanovic-Stejic M, Suarez-Farinas M, Chambers ES, Sandhu D, Fuentes-Duculan J, Mabbott NA, Rustin MHA, Krueger J, Akbar AN",
+      "journal": "The Journal of infectious diseases",
+      "year": "2018",
+      "doi": "10.1093/infdis/jiy420"
+    },
+    {
+      "pmid": "30194992",
+      "title": "Dupilumab progressively improves systemic and cutaneous abnormalities in patients with atopic dermatitis.",
+      "authors": "Guttman-Yassky E, Bissonnette R, Ungar B, Suárez-Fariñas M, Ardeleanu M, Esaki H, Suprun M, Estrada Y, Xu H, Peng X, Silverberg JI, Menter A, Krueger JG, Zhang R, Chaudhry U, Swanson B, Graham NMH, Pirozzi G, Yancopoulos GD, D Hamilton JD",
+      "journal": "The Journal of allergy and clinical immunology",
+      "year": "2019",
+      "doi": "10.1016/j.jaci.2018.08.022"
+    },
+    {
+      "pmid": "30150281",
+      "title": "Comprehensive innate immune profiling of chikungunya virus infection in pediatric cases.",
+      "authors": "Michlmayr D, Pak TR, Rahman AH, Amir ED, Kim EY, Kim-Schulze S, Suprun M, Stewart MG, Thomas GP, Balmaseda A, Wang L, Zhu J, Suaréz-Fariñas M, Wolinsky SM, Kasarskis A, Harris E",
+      "journal": "Molecular systems biology",
+      "year": "2018",
+      "doi": "10.15252/msb.20177862"
+    },
+    {
+      "pmid": "30058196",
+      "title": "A new Luminex-based peptide assay to identify reactivity to baked, fermented, and whole milk.",
+      "authors": "Sackesen C, Suárez-Fariñas M, Silva R, Lin J, Schmidt S, Getts R, Gimenez G, Yilmaz EA, Cavkaytar O, Buyuktiryaki B, Soyer O, Grishina G, Sampson HA",
+      "journal": "Allergy",
+      "year": "2019",
+      "doi": "10.1111/all.13581"
+    },
+    {
+      "pmid": "29971354",
+      "title": "Association of Inadequately Controlled Disease and Disease Severity With Patient-Reported Disease Burden in Adults With Atopic Dermatitis.",
+      "authors": "Simpson EL, Guttman-Yassky E, Margolis DJ, Feldman SR, Qureshi A, Hata T, Mastey V, Wei W, Eckert L, Chao J, Arnold RJG, Yu T, Vekeman F, Suárez-Fariñas M, Gadkari A",
+      "journal": "JAMA dermatology",
+      "year": "2018",
+      "doi": "10.1001/jamadermatol.2018.1572"
+    },
+    {
+      "pmid": "29844442",
+      "title": "Author Correction: The atopic dermatitis blood signature is characterized by increases in inflammatory and cardiovascular risk proteins.",
+      "authors": "Brunner PM, Suárez-Fariñas M, He H, Malik K, Wen HC, Gonzalez J, Chan TC, Estrada Y, Zheng X, Khattri S, Dattola A, Krueger JG, Guttman-Yassky E",
+      "journal": "Scientific reports",
+      "year": "2018",
+      "doi": "10.1038/s41598-018-26378-5"
+    },
+    {
+      "pmid": "29739789",
+      "title": "A Method to Summarize Toxicity in Cancer Randomized Clinical Trials.",
+      "authors": "Carbini M, Suárez-Fariñas M, Maki RG",
+      "journal": "Clinical cancer research : an official journal of the American Association for Cancer Research",
+      "year": "2018",
+      "doi": "10.1158/1078-0432.CCR-17-3314"
+    },
+    {
+      "pmid": "29175264",
+      "title": "New methodologies to accurately assess circulating active transforming growth factor-β1 levels: implications for evaluating heart failure and the impact of left ventricular assist devices.",
+      "authors": "Mancini D, Monteagudo J, Suárez-Fariñas M, Bander J, Varshney R, Gonzalez J, Coller BS, Ahamed J",
+      "journal": "Translational research : the journal of laboratory and clinical medicine",
+      "year": "2018",
+      "doi": "10.1016/j.trsl.2017.10.006"
+    },
+    {
+      "pmid": "29155150",
+      "title": "Enhancement of cutaneous immunity during aging by blocking p38 mitogen-activated protein (MAP) kinase-induced inflammation.",
+      "authors": "Vukmanovic-Stejic M, Chambers ES, Suárez-Fariñas M, Sandhu D, Fuentes-Duculan J, Patel N, Agius E, Lacy KE, Turner CT, Larbi A, Birault V, Noursadeghi M, Mabbott NA, Rustin MHA, Krueger JG, Akbar AN",
+      "journal": "The Journal of allergy and clinical immunology",
+      "year": "2018",
+      "doi": "10.1016/j.jaci.2017.10.032"
+    },
+    {
+      "pmid": "28977706",
+      "title": "Dust mite induces multiple polar T cell axes in human skin.",
+      "authors": "Malik K, Ungar B, Garcet S, Dutt R, Dickstein D, Zheng X, Xu H, Estrada YD, Suárez-Fariñas M, Shemer A, Krueger JG, Guttman-Yassky E",
+      "journal": "Clinical and experimental allergy : journal of the British Society for Allergy and Clinical Immunology",
+      "year": "2017",
+      "doi": "10.1111/cea.13040"
+    },
+    {
+      "pmid": "28927890",
+      "title": "Reduction of Inflammatory and Cardiovascular Proteins in the Blood of Patients with Psoriasis: Differential Responses between Tofacitinib and Etanercept after 4 Weeks of Treatment.",
+      "authors": "Kim J, Tomalin L, Lee J, Fitz LJ, Berstein G, Correa-da Rosa J, Garcet S, Lowes MA, Valdez H, Wolk R, Suarez-Farinas M, Krueger JG",
+      "journal": "The Journal of investigative dermatology",
+      "year": "2018",
+      "doi": "10.1016/j.jid.2017.08.040"
+    },
+    {
+      "pmid": "28821884",
+      "title": "The atopic dermatitis blood signature is characterized by increases in inflammatory and cardiovascular risk proteins.",
+      "authors": "Brunner PM, Suárez-Fariñas M, He H, Malik K, Wen HC, Gonzalez J, Chan TC, Estrada Y, Zheng X, Khattri S, Dattola A, Krueger JG, Guttman-Yassky E",
+      "journal": "Scientific reports",
+      "year": "2017",
+      "doi": "10.1038/s41598-017-09207-z"
+    },
+    {
+      "pmid": "28703865",
+      "title": "Identification of unique proteomic signatures in allergic and non-allergic skin disease.",
+      "authors": "Wang J, Suárez-Fariñas M, Estrada Y, Parker ML, Greenlees L, Stephens G, Krueger J, Guttman-Yassky E, Howell MD",
+      "journal": "Clinical and experimental allergy : journal of the British Society for Allergy and Clinical Immunology",
+      "year": "2017",
+      "doi": "10.1111/cea.12979"
+    },
+    {
+      "pmid": "28666115",
+      "title": "IFNγ-Dependent Tissue-Immune Homeostasis Is Co-opted in the Tumor Microenvironment.",
+      "authors": "Nirschl CJ, Suárez-Fariñas M, Izar B, Prakadan S, Dannenfelser R, Tirosh I, Liu Y, Zhu Q, Devi KSP, Carroll SL, Chau D, Rezaee M, Kim TG, Huang R, Fuentes-Duculan J, Song-Zhao GX, Gulati N, Lowes MA, King SL, Quintana FJ, Lee YS, Krueger JG, Sarin KY, Yoon CH, Garraway L, Regev A, Shalek AK, Troyanskaya O, Anandasabapathy N",
+      "journal": "Cell",
+      "year": "2017",
+      "doi": "10.1016/j.cell.2017.06.016"
+    },
+    {
+      "pmid": "28238742",
+      "title": "Molecular signatures order the potency of topically applied anti-inflammatory drugs in patients with atopic dermatitis.",
+      "authors": "Guttman-Yassky E, Ungar B, Malik K, Dickstein D, Suprun M, Estrada YD, Xu H, Peng X, Oliva M, Todd D, Labuda T, Suarez-Farinas M, Bissonnette R",
+      "journal": "The Journal of allergy and clinical immunology",
+      "year": "2017",
+      "doi": "10.1016/j.jaci.2017.01.027"
+    },
+    {
+      "pmid": "28050196",
+      "title": "A Bioequivalence Test by the Direct Comparison of Concentration-versus-Time Curves Using Local Polynomial Smoothers.",
+      "authors": "Tian S, Chang HH, Orange D, Gu J, Suárez-Fariñas M",
+      "journal": "Computational and mathematical methods in medicine",
+      "year": "2016",
+      "doi": "10.1155/2016/4680642"
+    },
+    {
+      "pmid": "27965110",
+      "title": "Alterations in B-cell subsets in pediatric patients with early atopic dermatitis.",
+      "authors": "Czarnowicki T, Esaki H, Gonzalez J, Renert-Yuval Y, Brunner P, Oliva M, Estrada Y, Xu H, Zheng X, Talasila S, Haugh I, Huynh T, Lyon S, Tran G, Sampson H, Suárez-Fariñas M, Krueger JG, Guttman-Yassky E, Paller AS",
+      "journal": "The Journal of allergy and clinical immunology",
+      "year": "2017",
+      "doi": "10.1016/j.jaci.2016.09.060"
+    },
+    {
+      "pmid": "27943413",
+      "title": "Aberrant connective tissue differentiation towards cartilage and bone underlies human keloids in African Americans.",
+      "authors": "Fuentes-Duculan J, Bonifacio KM, Suárez-Fariñas M, Kunjravia N, Garcet S, Cruz T, Wang CQF, Xu H, Gilleadeau P, Sullivan-Whalen M, Tirgan MH, Krueger JG",
+      "journal": "Experimental dermatology",
+      "year": "2017",
+      "doi": "10.1111/exd.13271"
+    },
+    {
+      "pmid": "27825969",
+      "title": "An Integrated Model of Atopic Dermatitis Biomarkers Highlights the Systemic Nature of the Disease.",
+      "authors": "Ungar B, Garcet S, Gonzalez J, Dhingra N, Correa da Rosa J, Shemer A, Krueger JG, Suarez-Farinas M, Guttman-Yassky E",
+      "journal": "The Journal of investigative dermatology",
+      "year": "2017",
+      "doi": "10.1016/j.jid.2016.09.037"
+    },
+    {
+      "pmid": "27783441",
+      "title": "Digital imaging biomarkers feed machine learning for melanoma screening.",
+      "authors": "Gareau DS, Correa da Rosa J, Yagerman S, Carucci JA, Gulati N, Hueto F, DeFazio JL, Suárez-Fariñas M, Marghoob A, Krueger JG",
+      "journal": "Experimental dermatology",
+      "year": "2017",
+      "doi": "10.1111/exd.13250"
+    },
+    {
+      "pmid": "27185339",
+      "title": "The Spectrum of Mild to Severe Psoriasis Vulgaris Is Defined by a Common Activation of IL-17 Pathway Genes, but with Key Differences in Immune Regulatory Genes.",
+      "authors": "Kim J, Bissonnette R, Lee J, Correa da Rosa J, Suárez-Fariñas M, Lowes MA, Krueger JG",
+      "journal": "The Journal of investigative dermatology",
+      "year": "2016",
+      "doi": "10.1016/j.jid.2016.04.032"
+    },
+    {
+      "pmid": "27743912",
+      "title": "Palmoplantar pustular psoriasis (PPPP) is characterized by activation of the IL-17A pathway.",
+      "authors": "Bissonnette R, Fuentes-Duculan J, Mashiko S, Li X, Bonifacio KM, Cueto I, Suárez-Fariñas M, Maari C, Bolduc C, Nigen S, Sarfati M, Krueger JG",
+      "journal": "Journal of dermatological science",
+      "year": "2017",
+      "doi": "10.1016/j.jdermsci.2016.09.019"
+    },
+    {
+      "pmid": "27702671",
+      "title": "Major differences between human atopic dermatitis and murine models, as determined by using global transcriptomic profiling.",
+      "authors": "Ewald DA, Noda S, Oliva M, Litman T, Nakajima S, Li X, Xu H, Workman CT, Scheipers P, Svitacheva N, Labuda T, Krueger JG, Suárez-Fariñas M, Kabashima K, Guttman-Yassky E",
+      "journal": "The Journal of allergy and clinical immunology",
+      "year": "2017",
+      "doi": "10.1016/j.jaci.2016.08.029"
+    },
+    {
+      "pmid": "27671162",
+      "title": "Early-onset pediatric atopic dermatitis is T(H)2 but also T(H)17 polarized in skin.",
+      "authors": "Esaki H, Brunner PM, Renert-Yuval Y, Czarnowicki T, Huynh T, Tran G, Lyon S, Rodriguez G, Immaneni S, Johnson DB, Bauer B, Fuentes-Duculan J, Zheng X, Peng X, Estrada YD, Xu H, de Guzman Strong C, Suárez-Fariñas M, Krueger JG, Paller AS, Guttman-Yassky E",
+      "journal": "The Journal of allergy and clinical immunology",
+      "year": "2016",
+      "doi": "10.1016/j.jaci.2016.07.013"
+    },
+    {
+      "pmid": "27667537",
+      "title": "Shrinking the Psoriasis Assessment Gap: Early Gene-Expression Profiling Accurately Predicts Response to Long-Term Treatment.",
+      "authors": "Correa da Rosa J, Kim J, Tian S, Tomalin LE, Krueger JG, Suárez-Fariñas M",
+      "journal": "The Journal of investigative dermatology",
+      "year": "2017",
+      "doi": "10.1016/j.jid.2016.09.015"
+    },
+    {
+      "pmid": "27554821",
+      "title": "An IL-17-dominant immune profile is shared across the major orphan forms of ichthyosis.",
+      "authors": "Paller AS, Renert-Yuval Y, Suprun M, Esaki H, Oliva M, Huynh TN, Ungar B, Kunjravia N, Friedland R, Peng X, Zheng X, Estrada YD, Krueger JG, Choate KA, Suárez-Fariñas M, Guttman-Yassky E",
+      "journal": "The Journal of allergy and clinical immunology",
+      "year": "2017",
+      "doi": "10.1016/j.jaci.2016.07.019"
+    },
+    {
+      "pmid": "27488305",
+      "title": "Patch testing of food allergens promotes Th17 and Th2 responses with increased IL-33: a pilot study.",
+      "authors": "Ungar B, Correa da Rosa J, Shemer A, Czarnowicki T, Estrada YD, Fuentes-Duculan J, Xu H, Zheng X, Peng X, Suárez-Fariñas M, Nowak-Wegrzyn A, Sampson HA, Krueger JG, Guttman-Yassky E",
+      "journal": "Experimental dermatology",
+      "year": "2017",
+      "doi": "10.1111/exd.13148"
+    },
+    {
+      "pmid": "27377700",
+      "title": "Discrimination of Dysplastic Nevi from Common Melanocytic Nevi by Cellular and Molecular Criteria.",
+      "authors": "Mitsui H, Kiecker F, Shemer A, Cannizzaro MV, Wang CQF, Gulati N, Ohmatsu H, Shah KR, Gilleaudeau P, Sullivan-Whalen M, Cueto I, McNutt NS, Suárez-Fariñas M, Krueger JG",
+      "journal": "The Journal of investigative dermatology",
+      "year": "2016",
+      "doi": "10.1016/j.jid.2015.11.035"
+    },
+    {
+      "pmid": "27377699",
+      "title": "Molecular Profiling of Immune Activation Associated with Regression of Melanoma Metastases Induced by Diphencyprone.",
+      "authors": "Gulati N, Garcet S, Fuentes-Duculan J, Gilleaudeau P, Sullivan-Whalen M, Li X, Suárez-Fariñas M, Coit DG, Krueger JG",
+      "journal": "The Journal of investigative dermatology",
+      "year": "2016",
+      "doi": "10.1016/j.jid.2016.06.611"
+    },
+    {
+      "pmid": "27326461",
+      "title": "Correction: Based on Molecular Profiling of Gene Expression, Palmoplantar Pustulosis and Palmoplantar Pustular Psoriasis Are Highly Related Diseases that Appear to Be Distinct from Psoriasis Vulgaris.",
+      "authors": "Bissonnette R, Suárez-Fariñas M, Li X, Bonifacio KM, Brodmerkel C, Fuentes-Duculan J, Krueger JG",
+      "journal": "PloS one",
+      "year": "2016",
+      "doi": "10.1371/journal.pone.0158190"
+    },
+    {
+      "pmid": "27304428",
+      "title": "Efficacy and safety of ustekinumab treatment in adults with moderate-to-severe atopic dermatitis.",
+      "authors": "Khattri S, Brunner PM, Garcet S, Finney R, Cohen SR, Oliva M, Dutt R, Fuentes-Duculan J, Zheng X, Li X, Bonifacio KM, Kunjravia N, Coats I, Cueto I, Gilleaudeau P, Sullivan-Whalen M, Suárez-Fariñas M, Krueger JG, Guttman-Yassky E",
+      "journal": "Experimental dermatology",
+      "year": "2017",
+      "doi": "10.1111/exd.13112"
+    },
+    {
+      "pmid": "27152848",
+      "title": "Based on Molecular Profiling of Gene Expression, Palmoplantar Pustulosis and Palmoplantar Pustular Psoriasis Are Highly Related Diseases that Appear to Be Distinct from Psoriasis Vulgaris.",
+      "authors": "Bissonnette R, Suárez-Fariñas M, Li X, Bonifacio KM, Brodmerkel C, Fuentes-Duculan J, Krueger JG",
+      "journal": "PloS one",
+      "year": "2016",
+      "doi": "10.1371/journal.pone.0155215"
+    },
+    {
+      "pmid": "27059729",
+      "title": "Tofacitinib attenuates pathologic immune pathways in patients with psoriasis: A randomized phase 2 study.",
+      "authors": "Krueger J, Clark JD, Suárez-Fariñas M, Fuentes-Duculan J, Cueto I, Wang CQ, Tan H, Wolk R, Rottinghaus ST, Whitley MZ, Valdez H, von Schack D, O'Neil SP, Reddy PS, Tatulych S, A3921147 Study Investigators",
+      "journal": "The Journal of allergy and clinical immunology",
+      "year": "2016",
+      "doi": "10.1016/j.jaci.2015.12.1318"
+    },
+    {
+      "pmid": "27005302",
+      "title": "Methotrexate improves pro- and anti-atherogenic genomic expression in psoriatic skin.",
+      "authors": "Goldminz AM, Suárez-Fariñas M, Wang AC, Dumont N, Krueger JG, Gottlieb AB",
+      "journal": "Journal of dermatological science",
+      "year": "2016",
+      "doi": "10.1016/j.jdermsci.2016.03.007"
+    },
+    {
+      "pmid": "26948076",
+      "title": "A mild topical steroid leads to progressive anti-inflammatory effects in the skin of patients with moderate-to-severe atopic dermatitis.",
+      "authors": "Brunner PM, Khattri S, Garcet S, Finney R, Oliva M, Dutt R, Fuentes-Duculan J, Zheng X, Li X, Bonifacio KM, Kunjravia N, Coats I, Cueto I, Gilleaudeau P, Sullivan-Whalen M, Suárez-Fariñas M, Krueger JG, Guttman-Yassky E",
+      "journal": "The Journal of allergy and clinical immunology",
+      "year": "2016",
+      "doi": "10.1016/j.jaci.2015.12.1323"
+    },
+    {
+      "pmid": "26849645",
+      "title": "Molecular and Cellular Profiling of Scalp Psoriasis Reveals Differences and Similarities Compared to Skin Psoriasis.",
+      "authors": "Ruano J, Suárez-Fariñas M, Shemer A, Oliva M, Guttman-Yassky E, Krueger JG",
+      "journal": "PloS one",
+      "year": "2016",
+      "doi": "10.1371/journal.pone.0148450"
+    },
+    {
+      "pmid": "26763436",
+      "title": "Molecular Phenotyping Small (Asian) versus Large (Western) Plaque Psoriasis Shows Common Activation of IL-17 Pathway Genes but Different Regulatory Gene Sets.",
+      "authors": "Kim J, Oh CH, Jeon J, Baek Y, Ahn J, Kim DJ, Lee HS, Correa da Rosa J, Suárez-Fariñas M, Lowes MA, Krueger JG",
+      "journal": "The Journal of investigative dermatology",
+      "year": "2016",
+      "doi": "10.1038/JID.2015.378"
+    },
+    {
+      "pmid": "26725996",
+      "title": "The tryptophan metabolism enzyme L-kynureninase is a novel inflammatory factor in psoriasis and other inflammatory diseases.",
+      "authors": "Harden JL, Lewis SM, Lish SR, Suárez-Fariñas M, Gareau D, Lentini T, Johnson-Huang LM, Krueger JG, Lowes MA",
+      "journal": "The Journal of allergy and clinical immunology",
+      "year": "2016",
+      "doi": "10.1016/j.jaci.2015.09.055"
+    },
+    {
+      "pmid": "26661294",
+      "title": "Biomarkers of alopecia areata disease activity and response to corticosteroid treatment.",
+      "authors": "Fuentes-Duculan J, Gulati N, Bonifacio KM, Kunjravia N, Zheng X, Suárez-Fariñas M, Shemer A, Guttman-Yassky E, Krueger JG",
+      "journal": "Experimental dermatology",
+      "year": "2016",
+      "doi": "10.1111/exd.12918"
+    },
+    {
+      "pmid": "26607705",
+      "title": "Extensive alopecia areata is reversed by IL-12/IL-23p40 cytokine antagonism.",
+      "authors": "Guttman-Yassky E, Ungar B, Noda S, Suprun M, Shroff A, Dutt R, Khattri S, Min M, Mansouri Y, Zheng X, Estrada YD, Singer GK, Suarez-Farinas M, Krueger JG, Lebwohl MG",
+      "journal": "The Journal of allergy and clinical immunology",
+      "year": "2016",
+      "doi": "10.1016/j.jaci.2015.11.001"
+    },
+    {
+      "pmid": "26556603",
+      "title": "A Randomized, Placebo-Controlled Study of SRT2104, a SIRT1 Activator, in Patients with Moderate to Severe Psoriasis.",
+      "authors": "Krueger JG, Suárez-Fariñas M, Cueto I, Khacherian A, Matheson R, Parish LC, Leonardi C, Shortino D, Gupta A, Haddad J, Vlasuk GP, Jacobson EW",
+      "journal": "PloS one",
+      "year": "2015",
+      "doi": "10.1371/journal.pone.0142081"
+    },
+    {
+      "pmid": "26459294",
+      "title": "Meta-analysis derived atopic dermatitis (MADAD) transcriptome defines a robust AD signature highlighting the involvement of atherosclerosis and lipid metabolism pathways.",
+      "authors": "Ewald DA, Malajian D, Krueger JG, Workman CT, Wang T, Tian S, Litman T, Guttman-Yassky E, Suárez-Fariñas M",
+      "journal": "BMC medical genomics",
+      "year": "2015",
+      "doi": "10.1186/s12920-015-0133-x"
+    },
+    {
+      "pmid": "26431582",
+      "title": "Petrolatum: Barrier repair and antimicrobial responses underlying this \"inert\" moisturizer.",
+      "authors": "Czarnowicki T, Malajian D, Khattri S, Correa da Rosa J, Dutt R, Finney R, Dhingra N, Xiangyu P, Xu H, Estrada YD, Zheng X, Gilleaudeau P, Sullivan-Whalen M, Suaréz-Fariñas M, Shemer A, Krueger JG, Guttman-Yassky E",
+      "journal": "The Journal of allergy and clinical immunology",
+      "year": "2016",
+      "doi": "10.1016/j.jaci.2015.08.013"
+    },
+    {
+      "pmid": "26428954",
+      "title": "The Asian atopic dermatitis phenotype combines features of atopic dermatitis and psoriasis with increased TH17 polarization.",
+      "authors": "Noda S, Suárez-Fariñas M, Ungar B, Kim SJ, de Guzman Strong C, Xu H, Peng X, Estrada YD, Nakajima S, Honda T, Shin JU, Lee H, Krueger JG, Lee KH, Kabashima K, Guttman-Yassky E",
+      "journal": "The Journal of allergy and clinical immunology",
+      "year": "2015",
+      "doi": "10.1016/j.jaci.2015.08.015"
+    },
+    {
+      "pmid": "26316095",
+      "title": "Alopecia areata profiling shows TH1, TH2, and IL-23 cytokine activation without parallel TH17/TH22 skewing.",
+      "authors": "Suárez-Fariñas M, Ungar B, Noda S, Shroff A, Mansouri Y, Fuentes-Duculan J, Czernik A, Zheng X, Estrada YD, Xu H, Peng X, Shemer A, Krueger JG, Lebwohl MG, Guttman-Yassky E",
+      "journal": "The Journal of allergy and clinical immunology",
+      "year": "2015",
+      "doi": "10.1016/j.jaci.2015.06.032"
+    },
+    {
+      "pmid": "26310443",
+      "title": "Loss of endogenous Nfatc1 reduces the rate of DMBA/TPA-induced skin tumorigenesis.",
+      "authors": "Goldstein J, Roth E, Roberts N, Zwick R, Lin S, Fletcher S, Tadeu A, Wu C, Beck A, Zeiss C, Suárez-Fariñas M, Horsley V",
+      "journal": "Molecular biology of the cell",
+      "year": "2015",
+      "doi": "10.1091/mbc.E15-05-0282"
+    },
+    {
+      "pmid": "26242300",
+      "title": "Early pediatric atopic dermatitis shows only a cutaneous lymphocyte antigen (CLA)(+) TH2/TH1 cell imbalance, whereas adults acquire CLA(+) TH22/TC22 cell subsets.",
+      "authors": "Czarnowicki T, Esaki H, Gonzalez J, Malajian D, Shemer A, Noda S, Talasila S, Berry A, Gray J, Becker L, Estrada Y, Xu H, Zheng X, Suárez-Fariñas M, Krueger JG, Paller AS, Guttman-Yassky E",
+      "journal": "The Journal of allergy and clinical immunology",
+      "year": "2015",
+      "doi": "10.1016/j.jaci.2015.05.049"
+    },
+    {
+      "pmid": "26236467",
+      "title": "Psoriasis is characterized by deficient negative immune regulation compared to transient delayed-type hypersensitivity reactions.",
+      "authors": "Gulati N, Suárez-Fariñas M, Correa da Rosa J, Krueger JG",
+      "journal": "F1000Research",
+      "year": "2015",
+      "doi": "10.12688/f1000research.6581.1"
+    },
+    {
+      "pmid": "26189551",
+      "title": "Increased expression of interleukin-17 pathway genes in nonlesional skin of moderate-to-severe psoriasis vulgaris.",
+      "authors": "Chiricozzi A, Suárez-Fariñas M, Fuentes-Duculan J, Cueto I, Li K, Tian S, Brodmerkel C, Krueger JG",
+      "journal": "The British journal of dermatology",
+      "year": "2016",
+      "doi": "10.1111/bjd.14034"
+    },
+    {
+      "pmid": "26176783",
+      "title": "Histological Stratification of Thick and Thin Plaque Psoriasis Explores Molecular Phenotypes with Clinical Implications.",
+      "authors": "Kim J, Nadella P, Kim DJ, Brodmerkel C, Correa da Rosa J, Krueger JG, Suárez-Fariñas M",
+      "journal": "PloS one",
+      "year": "2015",
+      "doi": "10.1371/journal.pone.0132454"
+    },
+    {
+      "pmid": "25946554",
+      "title": "CCL20 and IL22 Messenger RNA Expression After Adalimumab vs Methotrexate Treatment of Psoriasis: A Randomized Clinical Trial.",
+      "authors": "Goldminz AM, Suárez-Fariñas M, Wang AC, Dumont N, Krueger JG, Gottlieb AB",
+      "journal": "JAMA dermatology",
+      "year": "2015",
+      "doi": "10.1001/jamadermatol.2015.0452"
+    },
+    {
+      "pmid": "25936564",
+      "title": "Skin-homing and systemic T-cell subsets show higher activation in atopic dermatitis versus psoriasis.",
+      "authors": "Czarnowicki T, Malajian D, Shemer A, Fuentes-Duculan J, Gonzalez J, Suárez-Fariñas M, Krueger JG, Guttman-Yassky E",
+      "journal": "The Journal of allergy and clinical immunology",
+      "year": "2015",
+      "doi": "10.1016/j.jaci.2015.03.032"
+    },
+    {
+      "pmid": "25848977",
+      "title": "Aurora Kinase A Is Upregulated in Cutaneous T-Cell Lymphoma and Represents a Potential Therapeutic Target.",
+      "authors": "Humme D, Haider A, Möbs M, Mitsui H, Suárez-Fariñas M, Ohmatsu H, Isabell Geilen C, Eberle J, Krueger JG, Beyer M, Hummel M, Anagnostopoulos I, Sterry W, Assaf C",
+      "journal": "The Journal of investigative dermatology",
+      "year": "2015",
+      "doi": "10.1038/jid.2015.139"
+    },
+    {
+      "pmid": "25840722",
+      "title": "RNA sequencing atopic dermatitis transcriptome profiling provides insights into novel disease mechanisms with potential therapeutic implications.",
+      "authors": "Suárez-Fariñas M, Ungar B, Correa da Rosa J, Ewald DA, Rozenblit M, Gonzalez J, Xu H, Zheng X, Peng X, Estrada YD, Dillon SR, Krueger JG, Guttman-Yassky E",
+      "journal": "The Journal of allergy and clinical immunology",
+      "year": "2015",
+      "doi": "10.1016/j.jaci.2015.03.003"
+    },
+    {
+      "pmid": "25748064",
+      "title": "Severe atopic dermatitis is characterized by selective expansion of circulating TH2/TC2 and TH22/TC22, but not TH17/TC17, cells within the skin-homing T-cell population.",
+      "authors": "Czarnowicki T, Gonzalez J, Shemer A, Malajian D, Xu H, Zheng X, Khattri S, Gilleaudeau P, Sullivan-Whalen M, Suárez-Fariñas M, Krueger JG, Guttman-Yassky E",
+      "journal": "The Journal of allergy and clinical immunology",
+      "year": "2015",
+      "doi": "10.1016/j.jaci.2015.01.020"
+    },
+    {
+      "pmid": "25734814",
+      "title": "The Characterization of Varicella Zoster Virus-Specific T Cells in Skin and Blood during Aging.",
+      "authors": "Vukmanovic-Stejic M, Sandhu D, Seidel JA, Patel N, Sobande TO, Agius E, Jackson SE, Fuentes-Duculan J, Suárez-Fariñas M, Mabbott NA, Lacy KE, Ogg G, Nestle FO, Krueger JG, Rustin MHA, Akbar AN",
+      "journal": "The Journal of investigative dermatology",
+      "year": "2015",
+      "doi": "10.1038/jid.2015.63"
+    },
+    {
+      "pmid": "25583101",
+      "title": "Patients with atopic dermatitis have attenuated and distinct contact hypersensitivity responses to common allergens in skin.",
+      "authors": "Correa da Rosa J, Malajian D, Shemer A, Rozenblit M, Dhingra N, Czarnowicki T, Khattri S, Ungar B, Finney R, Xu H, Zheng X, Estrada YD, Peng X, Suárez-Fariñas M, Krueger JG, Guttman-Yassky E",
+      "journal": "The Journal of allergy and clinical immunology",
+      "year": "2015",
+      "doi": "10.1016/j.jaci.2014.11.017"
+    },
+    {
+      "pmid": "25567045",
+      "title": "Identification of novel immune and barrier genes in atopic dermatitis by means of laser capture microdissection.",
+      "authors": "Esaki H, Ewald DA, Ungar B, Rozenblit M, Zheng X, Xu H, Estrada YD, Peng X, Mitsui H, Litman T, Suárez-Fariñas M, Krueger JG, Guttman-Yassky E",
+      "journal": "The Journal of allergy and clinical immunology",
+      "year": "2015",
+      "doi": "10.1016/j.jaci.2014.10.037"
+    },
+    {
+      "pmid": "25533649",
+      "title": "Immune factors in breast milk related to infant milk allergy are independent of maternal atopy.",
+      "authors": "Järvinen KM, Suárez-Fariñas M, Savilahti E, Sampson HA, Berin MC",
+      "journal": "The Journal of allergy and clinical immunology",
+      "year": "2015",
+      "doi": "10.1016/j.jaci.2014.10.051"
+    },
+    {
+      "pmid": "25512250",
+      "title": "Comparative genomic profiling of synovium versus skin lesions in psoriatic arthritis.",
+      "authors": "Belasco J, Louie JS, Gulati N, Wei N, Nograles K, Fuentes-Duculan J, Mitsui H, Suárez-Fariñas M, Krueger JG",
+      "journal": "Arthritis & rheumatology (Hoboken, N.J.)",
+      "year": "2015",
+      "doi": "10.1002/art.38995"
+    },
+    {
+      "pmid": "25482871",
+      "title": "Dupilumab improves the molecular signature in skin of patients with moderate-to-severe atopic dermatitis.",
+      "authors": "Hamilton JD, Suárez-Fariñas M, Dhingra N, Cardinale I, Li X, Kostic A, Ming JE, Radin AR, Krueger JG, Graham N, Yancopoulos GD, Pirozzi G, Guttman-Yassky E",
+      "journal": "The Journal of allergy and clinical immunology",
+      "year": "2014",
+      "doi": "10.1016/j.jaci.2014.10.013"
+    },
+    {
+      "pmid": "25369198",
+      "title": "CARD14 expression in dermal endothelial cells in psoriasis.",
+      "authors": "Harden JL, Lewis SM, Pierson KC, Suárez-Fariñas M, Lentini T, Ortenzio FS, Zaba LC, Goldbach-Mansky R, Bowcock AM, Lowes MA",
+      "journal": "PloS one",
+      "year": "2014",
+      "doi": "10.1371/journal.pone.0111255"
+    },
+    {
+      "pmid": "25308477",
+      "title": "Dendritic cells are contained within melanocytic nevus nests in vivo and can alter gene expression of epidermal melanocytes in vitro.",
+      "authors": "Gulati N, Mitsui H, Fuentes-Duculan J, Gonzalez J, Wang CQ, Shah KR, Gilleaudeau P, Sullivan-Whalen M, Kiecker F, McNutt NS, Suárez-Fariñas M, Krueger JG",
+      "journal": "Pigment cell & melanoma research",
+      "year": "2015",
+      "doi": "10.1111/pcmr.12324"
+    },
+    {
+      "pmid": "25006719",
+      "title": "Dupilumab treatment in adults with moderate-to-severe atopic dermatitis.",
+      "authors": "Beck LA, Thaçi D, Hamilton JD, Graham NM, Bieber T, Rocklin R, Ming JE, Ren H, Kao R, Simpson E, Ardeleanu M, Weinstein SP, Pirozzi G, Guttman-Yassky E, Suárez-Fariñas M, Hager MD, Stahl N, Yancopoulos GD, Radin AR",
+      "journal": "The New England journal of medicine",
+      "year": "2014",
+      "doi": "10.1056/NEJMoa1314768"
+    },
+    {
+      "pmid": "24999591",
+      "title": "IL-17 induces inflammation-associated gene products in blood monocytes, and treatment with ixekizumab reduces their expression in psoriasis patient blood.",
+      "authors": "Wang CQF, Suárez-Fariñas M, Nograles KE, Mimoso CA, Shrom D, Dow ER, Heffernan MP, Hoffman RW, Krueger JG",
+      "journal": "The Journal of investigative dermatology",
+      "year": "2014",
+      "doi": "10.1038/jid.2014.268"
+    },
+    {
+      "pmid": "24996261",
+      "title": "Residual genomic profile after cyclosporine treatment may offer insights into atopic dermatitis reoccurrence.",
+      "authors": "Rozenblit M, Suarez-Farinas M, Shemer A, Khattri S, Gilleaudeau P, Sullivan-Whalen M, Zheng X, Xu H, Cardinale I, Krueger JG, Guttman-Yassky E",
+      "journal": "The Journal of allergy and clinical immunology",
+      "year": "2014",
+      "doi": "10.1016/j.jaci.2014.05.024"
+    },
+    {
+      "pmid": "24938282",
+      "title": "IL32 is progressively expressed in mycosis fungoides independent of helper T-cell 2 and helper T-cell 9 polarization.",
+      "authors": "Ohmatsu H, Humme D, Gulati N, Gonzalez J, Möbs M, Suárez-Fariñas M, Cardinale I, Mitsui H, Guttman-Yassky E, Sterry W, Krueger JG",
+      "journal": "Cancer immunology research",
+      "year": "2014",
+      "doi": "10.1158/2326-6066.CIR-13-0199-T"
+    },
+    {
+      "pmid": "24929883",
+      "title": "An investigator-initiated, double-blind, vehicle-controlled pilot study: assessment for tachyphylaxis to topically occluded halobetasol 0.05% ointment in the treatment of psoriasis.",
+      "authors": "Czarnowicki T, Linkner RV, Suárez-Fariñas M, Ingber A, Lebwohl M",
+      "journal": "Journal of the American Academy of Dermatology",
+      "year": "2014",
+      "doi": "10.1016/j.jaad.2014.05.040"
+    },
+    {
+      "pmid": "24786238",
+      "title": "Cyclosporine in patients with atopic dermatitis modulates activated inflammatory pathways and reverses epidermal pathology.",
+      "authors": "Khattri S, Shemer A, Rozenblit M, Dhingra N, Czarnowicki T, Finney R, Gilleaudeau P, Sullivan-Whalen M, Zheng X, Xu H, Cardinale I, de Guzman Strong C, Gonzalez J, Suárez-Fariñas M, Krueger JG, Guttman-Yassky E",
+      "journal": "The Journal of allergy and clinical immunology",
+      "year": "2014",
+      "doi": "10.1016/j.jaci.2014.03.003"
+    },
+    {
+      "pmid": "24768652",
+      "title": "Molecular profiling of contact dermatitis skin identifies allergen-dependent differences in immune response.",
+      "authors": "Dhingra N, Shemer A, Correa da Rosa J, Rozenblit M, Fuentes-Duculan J, Gittler JK, Finney R, Czarnowicki T, Zheng X, Xu H, Estrada YD, Cardinale I, Suárez-Fariñas M, Krueger JG, Guttman-Yassky E",
+      "journal": "The Journal of allergy and clinical immunology",
+      "year": "2014",
+      "doi": "10.1016/j.jaci.2014.03.009"
+    },
+    {
+      "pmid": "24751728",
+      "title": "Molecular characterization of human skin response to diphencyprone at peak and resolution phases: therapeutic insights.",
+      "authors": "Gulati N, Suárez-Fariñas M, Fuentes-Duculan J, Gilleaudeau P, Sullivan-Whalen M, Correa da Rosa J, Cueto I, Mitsui H, Krueger JG",
+      "journal": "The Journal of investigative dermatology",
+      "year": "2014",
+      "doi": "10.1038/jid.2014.196"
+    },
+    {
+      "pmid": "24655295",
+      "title": "Immunology of psoriasis.",
+      "authors": "Lowes MA, Suárez-Fariñas M, Krueger JG",
+      "journal": "Annual review of immunology",
+      "year": "2014",
+      "doi": "10.1146/annurev-immunol-032713-120225"
+    },
+    {
+      "pmid": "24587313",
+      "title": "IL-17 induces an expanded range of downstream genes in reconstituted human epidermis model.",
+      "authors": "Chiricozzi A, Nograles KE, Johnson-Huang LM, Fuentes-Duculan J, Cardinale I, Bonifacio KM, Gulati N, Mitsui H, Guttman-Yassky E, Suárez-Fariñas M, Krueger JG",
+      "journal": "PloS one",
+      "year": "2014",
+      "doi": "10.1371/journal.pone.0090284"
+    },
+    {
+      "pmid": "24386404",
+      "title": "Suppression of molecular inflammatory pathways by Toll-like receptor 7, 8, and 9 antagonists in a model of IL-23-induced skin inflammation.",
+      "authors": "Suárez-Fariñas M, Arbeit R, Jiang W, Ortenzio FS, Sullivan T, Krueger JG",
+      "journal": "PloS one",
+      "year": "2013",
+      "doi": "10.1371/journal.pone.0084634"
+    },
+    {
+      "pmid": "24270662",
+      "title": "Gene expression profiling of the leading edge of cutaneous squamous cell carcinoma: IL-24-driven MMP-7.",
+      "authors": "Mitsui H, Suárez-Fariñas M, Gulati N, Shah KR, Cannizzaro MV, Coats I, Felsen D, Krueger JG, Carucci JA",
+      "journal": "The Journal of investigative dermatology",
+      "year": "2014",
+      "doi": "10.1038/jid.2013.494"
+    },
+    {
+      "pmid": "24260109",
+      "title": "Multi-TGDR: a regularization method for multi-class classification in microarray experiments.",
+      "authors": "Tian S, Suárez-Fariñas M",
+      "journal": "PloS one",
+      "year": "2013",
+      "doi": "10.1371/journal.pone.0078302"
+    },
+    {
+      "pmid": "24163262",
+      "title": "Identification of anaplastic lymphoma kinase as a potential therapeutic target in Basal Cell Carcinoma.",
+      "authors": "Ning H, Mitsui H, Wang CQ, Suárez-Fariñas M, Gonzalez J, Shah KR, Chen J, Coats I, Felsen D, Carucci JA, Krueger JG",
+      "journal": "Oncotarget",
+      "year": "2013",
+      "doi": "10.18632/oncotarget.1357"
+    },
+    {
+      "pmid": "23941252",
+      "title": "The mechanistic basis for psoriasis immunopathogenesis: translating genotype to phenotype. Report of a workshop, Venice, 2012.",
+      "authors": "Bachelez H, Viguier M, Tebbey PW, Lowes M, Suárez-Fariñas M, Costanzo A, Nestle FO",
+      "journal": "The British journal of dermatology",
+      "year": "2013",
+      "doi": "10.1111/bjd.12347"
+    },
+    {
+      "pmid": "23931458",
+      "title": "Fundus image diagnostic agreement in uveitis utilizing free and open source software.",
+      "authors": "Hsieh J, Honda AF, Suárez-Fariñas M, Samson CM, Kedhar S, Mauro J, Francis J, Badamo J, Diaz VA, Kempen JH, Latkany PA",
+      "journal": "Canadian journal of ophthalmology. Journal canadien d'ophtalmologie",
+      "year": "2013",
+      "doi": "10.1016/j.jcjo.2013.02.010"
+    },
+    {
+      "pmid": "23777851",
+      "title": "Intrinsic atopic dermatitis shows similar TH2 and higher TH17 immune activation compared with extrinsic atopic dermatitis.",
+      "authors": "Suárez-Fariñas M, Dhingra N, Gittler J, Shemer A, Cardinale I, de Guzman Strong C, Krueger JG, Guttman-Yassky E",
+      "journal": "The Journal of allergy and clinical immunology",
+      "year": "2013",
+      "doi": "10.1016/j.jaci.2013.04.046"
+    },
+    {
+      "pmid": "23777850",
+      "title": "Attenuated neutrophil axis in atopic dermatitis compared to psoriasis reflects TH17 pathway differences between these diseases.",
+      "authors": "Dhingra N, Suárez-Fariñas M, Fuentes-Duculan J, Gittler JK, Shemer A, Raz A, Fischetti VA, Krueger JG, Guttman-Yassky E",
+      "journal": "The Journal of allergy and clinical immunology",
+      "year": "2013",
+      "doi": "10.1016/j.jaci.2013.04.043"
+    },
+    {
+      "pmid": "23771123",
+      "title": "Dominant Th1 and minimal Th17 skewing in discoid lupus revealed by transcriptomic comparison with psoriasis.",
+      "authors": "Jabbari A, Suárez-Fariñas M, Fuentes-Duculan J, Gonzalez J, Cueto I, Franks AG Jr, Krueger JG",
+      "journal": "The Journal of investigative dermatology",
+      "year": "2014",
+      "doi": "10.1038/jid.2013.269"
+    },
+    {
+      "pmid": "23732752",
+      "title": "IL-17 and TNF synergistically modulate cytokine expression while suppressing melanogenesis: potential relevance to psoriasis.",
+      "authors": "Wang CQF, Akalu YT, Suarez-Farinas M, Gonzalez J, Mitsui H, Lowes MA, Orlow SJ, Manga P, Krueger JG",
+      "journal": "The Journal of investigative dermatology",
+      "year": "2013",
+      "doi": "10.1038/jid.2013.237"
+    },
+    {
+      "pmid": "23728175",
+      "title": "Multicolor microRNA FISH effectively differentiates tumor types.",
+      "authors": "Renwick N, Cekan P, Masry PA, McGeary SE, Miller JB, Hafner M, Li Z, Mihailovic A, Morozov P, Brown M, Gogakos T, Mobin MB, Snorrason EL, Feilotter HE, Zhang X, Perlis CS, Wu H, Suárez-Fariñas M, Feng H, Shuda M, Moore PS, Tron VA, Chang Y, Tuschl T",
+      "journal": "The Journal of clinical investigation",
+      "year": "2013",
+      "doi": "10.1172/JCI68760"
+    },
+    {
+      "pmid": "23677166",
+      "title": "Creation of differentiation-specific genomic maps of human epidermis through laser capture microdissection.",
+      "authors": "Gulati N, Krueger JG, Suárez-Fariñas M, Mitsui H",
+      "journal": "The Journal of investigative dermatology",
+      "year": "2013",
+      "doi": "10.1038/jid.2013.190"
+    },
+    {
+      "pmid": "23667456",
+      "title": "Increased Tc22 and Treg/CD8 ratio contribute to aggressive growth of transplant associated squamous cell carcinoma.",
+      "authors": "Zhang S, Fujita H, Mitsui H, Yanofsky VR, Fuentes-Duculan J, Pettersen JS, Suárez-Fariñas M, Gonzalez J, Wang CQ, Krueger JG, Felsen D, Carucci JA",
+      "journal": "PloS one",
+      "year": "2013",
+      "doi": "10.1371/journal.pone.0062154"
+    },
+    {
+      "pmid": "23560298",
+      "title": "CD200 upregulation in vascular endothelium surrounding cutaneous squamous cell carcinoma.",
+      "authors": "Belkin DA, Mitsui H, Wang CQ, Gonzalez J, Zhang S, Shah KR, Coats I, Suàrez-Fariñas M, Krueger JG, Felsen D, Carucci JA",
+      "journal": "JAMA dermatology",
+      "year": "2013",
+      "doi": "10.1001/jamadermatol.2013.1609"
+    },
+    {
+      "pmid": "23407402",
+      "title": "TREM-1 as a potential therapeutic target in psoriasis.",
+      "authors": "Hyder LA, Gonzalez J, Harden JL, Johnson-Huang LM, Zaba LC, Pierson KC, Eungdamrong NJ, Lentini T, Gulati N, Fuentes-Duculan J, Suárez-Fariñas M, Lowes MA",
+      "journal": "The Journal of investigative dermatology",
+      "year": "2013",
+      "doi": "10.1038/jid.2013.68"
+    },
+    {
+      "pmid": "23265860",
+      "title": "Residual genomic signature of atopic dermatitis despite clinical resolution with narrow-band UVB.",
+      "authors": "Suárez-Fariñas M, Gittler JK, Shemer A, Cardinale I, Krueger JG, Guttman-Yassky E",
+      "journal": "The Journal of allergy and clinical immunology",
+      "year": "2013",
+      "doi": "10.1016/j.jaci.2012.11.010"
+    },
+    {
+      "pmid": "23226210",
+      "title": "Homeostatic tissue responses in skin biopsies from NOMID patients with constitutive overproduction of IL-1β.",
+      "authors": "Aubert P, Suárez-Fariñas M, Mitsui H, Johnson-Huang LM, Harden JL, Pierson KC, Dolan JG, Novitskaya I, Coats I, Estes J, Cowen EW, Plass N, Lee CC, Sun HW, Lowes MA, Goldbach-Mansky R",
+      "journal": "PloS one",
+      "year": "2012",
+      "doi": "10.1371/journal.pone.0049408"
+    },
+    {
+      "pmid": "23151847",
+      "title": "Gene profiling of narrowband UVB-induced skin injury defines cellular and molecular innate immune responses.",
+      "authors": "Kennedy Crispin M, Fuentes-Duculan J, Gulati N, Johnson-Huang LM, Lentini T, Sullivan-Whalen M, Gilleaudeau P, Cueto I, Suárez-Fariñas M, Lowes MA, Krueger JG",
+      "journal": "The Journal of investigative dermatology",
+      "year": "2013",
+      "doi": "10.1038/jid.2012.359"
+    },
+    {
+      "pmid": "22957057",
+      "title": "Meta-analysis derived (MAD) transcriptome of psoriasis defines the \"core\" pathogenesis of disease.",
+      "authors": "Tian S, Krueger JG, Li K, Jabbari A, Brodmerkel C, Lowes MA, Suárez-Fariñas M",
+      "journal": "PloS one",
+      "year": "2012",
+      "doi": "10.1371/journal.pone.0044274"
+    },
+    {
+      "pmid": "22951056",
+      "title": "Progressive activation of T(H)2/T(H)22 cytokines and selective epidermal proteins characterizes acute and chronic atopic dermatitis.",
+      "authors": "Gittler JK, Shemer A, Suárez-Fariñas M, Fuentes-Duculan J, Gulewicz KJ, Wang CQ, Mitsui H, Cardinale I, de Guzman Strong C, Krueger JG, Guttman-Yassky E",
+      "journal": "The Journal of allergy and clinical immunology",
+      "year": "2012",
+      "doi": "10.1016/j.jaci.2012.07.012"
+    },
+    {
+      "pmid": "22763790",
+      "title": "Expanding the psoriasis disease profile: interrogation of the skin and serum of patients with moderate-to-severe psoriasis.",
+      "authors": "Suárez-Fariñas M, Li K, Fuentes-Duculan J, Hayden K, Brodmerkel C, Krueger JG",
+      "journal": "The Journal of investigative dermatology",
+      "year": "2012",
+      "doi": "10.1038/jid.2012.184"
+    },
+    {
+      "pmid": "22677045",
+      "title": "IL-17A is essential for cell activation and inflammatory gene circuits in subjects with psoriasis.",
+      "authors": "Krueger JG, Fretzin S, Suárez-Fariñas M, Haslett PA, Phipps KM, Cameron GS, McColm J, Katcherian A, Cueto I, White T, Banerjee S, Hoffman RW",
+      "journal": "The Journal of allergy and clinical immunology",
+      "year": "2012",
+      "doi": "10.1016/j.jaci.2012.04.024"
+    },
+    {
+      "pmid": "22402444",
+      "title": "Langerhans cells from human cutaneous squamous cell carcinoma induce strong type 1 immunity.",
+      "authors": "Fujita H, Suárez-Fariñas M, Mitsui H, Gonzalez J, Bluth MJ, Zhang S, Felsen D, Krueger JG, Carucci JA",
+      "journal": "The Journal of investigative dermatology",
+      "year": "2012",
+      "doi": "10.1038/jid.2012.34"
+    },
+    {
+      "pmid": "22402443",
+      "title": "Combined use of laser capture microdissection and cDNA microarray analysis identifies locally expressed disease-related genes in focal regions of psoriasis vulgaris skin lesions.",
+      "authors": "Mitsui H, Suárez-Fariñas M, Belkin DA, Levenkova N, Fuentes-Duculan J, Coats I, Fujita H, Krueger JG",
+      "journal": "The Journal of investigative dermatology",
+      "year": "2012",
+      "doi": "10.1038/jid.2012.33"
+    },
+    {
+      "pmid": "22348003",
+      "title": "Post-therapeutic relapse of psoriasis after CD11a blockade is associated with T cells and inflammatory myeloid DCs.",
+      "authors": "Johnson-Huang LM, Pensabene CA, Shah KR, Pierson KC, Kikuchi T, Lentini T, Gilleaudeau P, Sullivan-Whalen M, Cueto I, Khatcherian A, Hyder LA, Suárez-Fariñas M, Krueger JG, Lowes MA",
+      "journal": "PloS one",
+      "year": "2012",
+      "doi": "10.1371/journal.pone.0030308"
+    },
+    {
+      "pmid": "22277938",
+      "title": "A single intradermal injection of IFN-γ induces an inflammatory state in both non-lesional psoriatic and healthy skin.",
+      "authors": "Johnson-Huang LM, Suárez-Fariñas M, Pierson KC, Fuentes-Duculan J, Cueto I, Lentini T, Sullivan-Whalen M, Gilleaudeau P, Krueger JG, Haider AS, Lowes MA",
+      "journal": "The Journal of investigative dermatology",
+      "year": "2012",
+      "doi": "10.1038/jid.2011.458"
+    },
+    {
+      "pmid": "21945372",
+      "title": "Post-fasting olfactory, transcriptional, and feeding responses in Drosophila.",
+      "authors": "Farhadian SF, Suárez-Fariñas M, Cho CE, Pellegrino M, Vosshall LB",
+      "journal": "Physiology & behavior",
+      "year": "2012",
+      "doi": "10.1016/j.physbeh.2011.09.007"
+    },
+    {
+      "pmid": "21881590",
+      "title": "Human keratinocytes' response to injury upregulates CCL20 and other genes linking innate and adaptive immunity.",
+      "authors": "Kennedy-Crispin M, Billick E, Mitsui H, Gulati N, Fujita H, Gilleaudeau P, Sullivan-Whalen M, Johnson-Huang LM, Suárez-Fariñas M, Krueger JG",
+      "journal": "The Journal of investigative dermatology",
+      "year": "2012",
+      "doi": "10.1038/jid.2011.262"
+    },
+    {
+      "pmid": "21850022",
+      "title": "Transcriptional profiling of psoriasis using RNA-seq reveals previously unidentified differentially expressed genes.",
+      "authors": "Jabbari A, Suárez-Fariñas M, Dewell S, Krueger JG",
+      "journal": "The Journal of investigative dermatology",
+      "year": "2012",
+      "doi": "10.1038/jid.2011.267"
+    },
+    {
+      "pmid": "21762976",
+      "title": "Reversal of atopic dermatitis with narrow-band UVB phototherapy and biomarkers for therapeutic response.",
+      "authors": "Tintle S, Shemer A, Suárez-Fariñas M, Fujita H, Gilleaudeau P, Sullivan-Whalen M, Johnson-Huang L, Chiricozzi A, Cardinale I, Duan S, Bowcock A, Krueger JG, Guttman-Yassky E",
+      "journal": "The Journal of allergy and clinical immunology",
+      "year": "2011",
+      "doi": "10.1016/j.jaci.2011.05.042"
+    },
+    {
+      "pmid": "21704361",
+      "title": "Lesional dendritic cells in patients with chronic atopic dermatitis and psoriasis exhibit parallel ability to activate T-cell subsets.",
+      "authors": "Fujita H, Shemer A, Suárez-Fariñas M, Johnson-Huang LM, Tintle S, Cardinale I, Fuentes-Duculan J, Novitskaya I, Carucci JA, Krueger JG, Guttman-Yassky E",
+      "journal": "The Journal of allergy and clinical immunology",
+      "year": "2011",
+      "doi": "10.1016/j.jaci.2011.05.016"
+    },
+    {
+      "pmid": "21388663",
+      "title": "Nonlesional atopic dermatitis skin is characterized by broad terminal differentiation defects and variable immune abnormalities.",
+      "authors": "Suárez-Fariñas M, Tintle SJ, Shemer A, Chiricozzi A, Nograles K, Cardinale I, Duan S, Bowcock AM, Krueger JG, Guttman-Yassky E",
+      "journal": "The Journal of allergy and clinical immunology",
+      "year": "2011",
+      "doi": "10.1016/j.jaci.2010.12.1124"
+    },
+    {
+      "pmid": "21307877",
+      "title": "Tumor-associated macrophages in the cutaneous SCC microenvironment are heterogeneously activated.",
+      "authors": "Pettersen JS, Fuentes-Duculan J, Suárez-Fariñas M, Pierson KC, Pitts-Kiefer A, Fan L, Belkin DA, Wang CQ, Bhuvanendran S, Johnson-Huang LM, Bluth MJ, Krueger JG, Lowes MA, Carucci JA",
+      "journal": "The Journal of investigative dermatology",
+      "year": "2011",
+      "doi": "10.103/jid.2011.9"
+    },
+    {
+      "pmid": "21147860",
+      "title": "Diet-induced weight loss reduces colorectal inflammation: implications for colorectal carcinogenesis.",
+      "authors": "Pendyala S, Neff LM, Suárez-Fariñas M, Holt PR",
+      "journal": "The American journal of clinical nutrition",
+      "year": "2011",
+      "doi": "10.3945/ajcn.110.002683"
+    },
+    {
+      "pmid": "21085185",
+      "title": "Integrative responses to IL-17 and TNF-α in human keratinocytes account for key inflammatory pathogenic circuits in psoriasis.",
+      "authors": "Chiricozzi A, Guttman-Yassky E, Suárez-Fariñas M, Nograles KE, Tian S, Cardinale I, Chimenti S, Krueger JG",
+      "journal": "The Journal of investigative dermatology",
+      "year": "2011",
+      "doi": "10.1038/jid.2010.340"
+    },
+    {
+      "pmid": "20861854",
+      "title": "Resolved psoriasis lesions retain expression of a subset of disease-related genes.",
+      "authors": "Suárez-Fariñas M, Fuentes-Duculan J, Lowes MA, Krueger JG",
+      "journal": "The Journal of investigative dermatology",
+      "year": "2011",
+      "doi": "10.1038/jid.2010.280"
+    },
+    {
+      "pmid": "20827282",
+      "title": "The human cutaneous squamous cell carcinoma microenvironment is characterized by increased lymphatic density and enhanced expression of macrophage-derived VEGF-C.",
+      "authors": "Moussai D, Mitsui H, Pettersen JS, Pierson KC, Shah KR, Suárez-Fariñas M, Cardinale IR, Bluth MJ, Krueger JG, Carucci JA",
+      "journal": "The Journal of investigative dermatology",
+      "year": "2011",
+      "doi": "10.1038/jid.2010.266"
+    },
+    {
+      "pmid": "20824184",
+      "title": "Harnessing naturally occurring tumor immunity: a clinical vaccine trial in prostate cancer.",
+      "authors": "Frank MO, Kaufman J, Tian S, Suárez-Fariñas M, Parveen S, Blachère NE, Morris MJ, Slovin S, Scher HI, Albert ML, Darnell RB",
+      "journal": "PloS one",
+      "year": "2010",
+      "doi": "10.1371/journal.pone.0012367"
+    },
+    {
+      "pmid": "20555352",
+      "title": "A subpopulation of CD163-positive macrophages is classically activated in psoriasis.",
+      "authors": "Fuentes-Duculan J, Suárez-Fariñas M, Zaba LC, Nograles KE, Pierson KC, Mitsui H, Pensabene CA, Kzhyshkowska J, Krueger JG, Lowes MA",
+      "journal": "The Journal of investigative dermatology",
+      "year": "2010",
+      "doi": "10.1038/jid.2010.165"
+    },
+    {
+      "pmid": "20555351",
+      "title": "Effective narrow-band UVB radiation therapy suppresses the IL-23/IL-17 axis in normalized psoriasis plaques.",
+      "authors": "Johnson-Huang LM, Suárez-Fariñas M, Sullivan-Whalen M, Gilleaudeau P, Krueger JG, Lowes MA",
+      "journal": "The Journal of investigative dermatology",
+      "year": "2010",
+      "doi": "10.1038/jid.2010.166"
+    },
+    {
+      "pmid": "20471070",
+      "title": "Identification of TNF-related apoptosis-inducing ligand and other molecules that distinguish inflammatory from resident dendritic cells in patients with psoriasis.",
+      "authors": "Zaba LC, Fuentes-Duculan J, Eungdamrong NJ, Johnson-Huang LM, Nograles KE, White TR, Pierson KC, Lentini T, Suárez-Fariñas M, Lowes MA, Krueger JG",
+      "journal": "The Journal of allergy and clinical immunology",
+      "year": "2010",
+      "doi": "10.1016/j.jaci.2010.03.018"
+    },
+    {
+      "pmid": "20463594",
+      "title": "Immunosuppression affects CD4+ mRNA expression and induces Th2 dominance in the microenvironment of cutaneous squamous cell carcinoma in organ transplant recipients.",
+      "authors": "Kosmidis M, Dziunycz P, Suárez-Fariñas M, Mühleisen B, Schärer L, Läuchli S, Hafner J, French LE, Schmidt-Weber C, Carucci JA, Hofbauer GF",
+      "journal": "Journal of immunotherapy (Hagerstown, Md. : 1997)",
+      "year": "2010",
+      "doi": "10.1097/CJI.0b013e3181cc2615"
+    },
+    {
+      "pmid": "20422035",
+      "title": "Evaluation of the psoriasis transcriptome across different studies by gene set enrichment analysis (GSEA).",
+      "authors": "Suárez-Fariñas M, Lowes MA, Zaba LC, Krueger JG",
+      "journal": "PloS one",
+      "year": "2010",
+      "doi": "10.1371/journal.pone.0010247"
+    },
+    {
+      "pmid": "20226306",
+      "title": "Atopic dermatitis keratinocytes exhibit normal T(H)17 cytokine responses.",
+      "authors": "Nograles KE, Suárez-Fariñas M, Shemer A, Fuentes-Duculan J, Chiricozzi A, Cardinale I, Zaba LC, Kikuchi T, Ramon M, Bergman R, Krueger JG, Guttman-Yassky E",
+      "journal": "The Journal of allergy and clinical immunology",
+      "year": "2010",
+      "doi": "10.1016/j.jaci.2009.12.934"
+    },
+    {
+      "pmid": "20152045",
+      "title": "Personalized medicine in psoriasis: developing a genomic classifier to predict histological response to Alefacept.",
+      "authors": "Suárez-Fariñas M, Shah KR, Haider AS, Krueger JG, Lowes MA",
+      "journal": "BMC dermatology",
+      "year": "2010",
+      "doi": "10.1186/1471-5945-10-1"
+    },
+    {
+      "pmid": "20004782",
+      "title": "Broad defects in epidermal cornification in atopic dermatitis identified through genomic analysis.",
+      "authors": "Guttman-Yassky E, Suárez-Fariñas M, Chiricozzi A, Nograles KE, Shemer A, Fuentes-Duculan J, Cardinale I, Lin P, Bergman R, Bowcock AM, Krueger JG",
+      "journal": "The Journal of allergy and clinical immunology",
+      "year": "2009",
+      "doi": "10.1016/j.jaci.2009.09.031"
+    },
+    {
+      "pmid": "19895991",
+      "title": "Effective treatment of psoriasis with etanercept is linked to suppression of IL-17 signaling, not immediate response TNF genes.",
+      "authors": "Zaba LC, Suárez-Fariñas M, Fuentes-Duculan J, Nograles KE, Guttman-Yassky E, Cardinale I, Lowes MA, Krueger JG",
+      "journal": "The Journal of allergy and clinical immunology",
+      "year": "2009",
+      "doi": "10.1016/j.jaci.2009.08.046"
+    },
+    {
+      "pmid": "19464370",
+      "title": "Systematic behavioral evaluation of Huntington's disease transgenic and knock-in mouse models.",
+      "authors": "Menalled L, El-Khodor BF, Patry M, Suárez-Fariñas M, Orenstein SJ, Zahasky B, Leahy C, Wheeler V, Yang XW, MacDonald M, Morton AJ, Bates G, Leeds J, Park L, Howland D, Signer E, Tobin A, Brunner D",
+      "journal": "Neurobiology of disease",
+      "year": "2009",
+      "doi": "10.1016/j.nbd.2009.05.007"
+    },
+    {
+      "pmid": "19387481",
+      "title": "Myeloid dendritic cells from human cutaneous squamous cell carcinoma are poor stimulators of T-cell proliferation.",
+      "authors": "Bluth MJ, Zaba LC, Moussai D, Suárez-Fariñas M, Kaporis H, Fan L, Pierson KC, White TR, Pitts-Kiefer A, Fuentes-Duculan J, Guttman-Yassky E, Krueger JG, Lowes MA, Carucci JA",
+      "journal": "The Journal of investigative dermatology",
+      "year": "2009",
+      "doi": "10.1038/jid.2009.96"
+    },
+    {
+      "pmid": "19013281",
+      "title": "A translational profiling approach for the molecular characterization of CNS cell types.",
+      "authors": "Heiman M, Schaefer A, Gong S, Peterson JD, Day M, Ramsey KE, Suárez-Fariñas M, Schwarz C, Stephan DA, Surmeier DJ, Greengard P, Heintz N",
+      "journal": "Cell",
+      "year": "2008",
+      "doi": "10.1016/j.cell.2008.10.028"
+    },
+    {
+      "pmid": "18684158",
+      "title": "Th17 cytokines interleukin (IL)-17 and IL-22 modulate distinct inflammatory and keratinocyte-response pathways.",
+      "authors": "Nograles KE, Zaba LC, Guttman-Yassky E, Fuentes-Duculan J, Suárez-Fariñas M, Cardinale I, Khatcherian A, Gonzalez J, Pierson KC, White TR, Pensabene C, Coats I, Novitskaya I, Lowes MA, Krueger JG",
+      "journal": "The British journal of dermatology",
+      "year": "2008",
+      "doi": "10.1111/j.1365-2133.2008.08769.x"
+    },
+    {
+      "pmid": "18455159",
+      "title": "Identification of a battery of tests for drug candidate evaluation in the SMNDelta7 neonate model of spinal muscular atrophy.",
+      "authors": "El-Khodor BF, Edgar N, Chen A, Winberg ML, Joyce C, Brunner D, Suárez-Fariñas M, Heyes MP",
+      "journal": "Experimental neurology",
+      "year": "2008",
+      "doi": "10.1016/j.expneurol.2008.02.025"
+    },
+    {
+      "pmid": "18209089",
+      "title": "Identification of cellular pathways of \"type 1,\" Th17 T cells, and TNF- and inducible nitric oxide synthase-producing dendritic cells in autoimmune inflammation through pharmacogenomic study of cyclosporine A in psoriasis.",
+      "authors": "Haider AS, Lowes MA, Suárez-Fariñas M, Zaba LC, Cardinale I, Khatcherian A, Novitskaya I, Wittkowski KM, Krueger JG",
+      "journal": "Journal of immunology (Baltimore, Md. : 1950)",
+      "year": "2008",
+      "doi": "10.4049/jimmunol.180.3.1913"
+    },
+    {
+      "pmid": "18039949",
+      "title": "Amelioration of epidermal hyperplasia by TNF inhibition is associated with reduced Th17 responses.",
+      "authors": "Zaba LC, Cardinale I, Gilleaudeau P, Sullivan-Whalen M, Suárez-Fariñas M, Fuentes-Duculan J, Novitskaya I, Khatcherian A, Bluth MJ, Lowes MA, Krueger JG",
+      "journal": "The Journal of experimental medicine",
+      "year": "2007",
+      "doi": "10.1084/jem.20071094"
+    },
+    {
+      "pmid": "17947067",
+      "title": "Detecting artifacts on SNP chips.",
+      "authors": "Pellegrino M, Suárez-Fariñas M, Magnasco MO, Wittkowski KM",
+      "journal": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+      "year": "2006",
+      "doi": "10.1109/IEMBS.2006.260753"
+    },
+    {
+      "pmid": "17947031",
+      "title": "Bioinformatics tools enabling u-statistics for microarrays.",
+      "authors": "Wittkowski KM, Haider A, Sehayek E, Suárez-Fariñas M, Pellegrino M, Peshansky A, Coffran C, Coker S",
+      "journal": "Conference proceedings : ... Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual Conference",
+      "year": "2006",
+      "doi": "10.1109/IEMBS.2006.260846"
+    },
+    {
+      "pmid": "17928892",
+      "title": "Cellular genomic maps help dissect pathology in human skin disease.",
+      "authors": "Haider AS, Lowes MA, Suàrez-Fariñas M, Zaba LC, Cardinale I, Blumenberg M, Krueger JG",
+      "journal": "The Journal of investigative dermatology",
+      "year": "2008",
+      "doi": "10.1038/sj.jid.5701067"
+    },
+    {
+      "pmid": "17634614",
+      "title": "Comparing microarray studies.",
+      "authors": "Suárez-Fariñas M, Magnasco MO",
+      "journal": "Methods in molecular biology (Clifton, N.J.)",
+      "year": "2007",
+      "doi": "10.1007/978-1-59745-390-5_8"
+    },
+    {
+      "pmid": "16336691",
+      "title": "Harshlight: a \"corrective make-up\" program for microarray chips.",
+      "authors": "Suárez-Fariñas M, Pellegrino M, Wittkowski KM, Magnasco MO",
+      "journal": "BMC bioinformatics",
+      "year": "2005",
+      "doi": "10.1186/1471-2105-6-294"
+    },
+    {
+      "pmid": "16330219",
+      "title": "In vivo transcriptional profile analysis reveals RNA splicing and chromatin remodeling as prominent processes for adult neurogenesis.",
+      "authors": "Lim DA, Suárez-Fariñas M, Naef F, Hacker CR, Menn B, Takebayashi H, Magnasco M, Patil N, Alvarez-Buylla A",
+      "journal": "Molecular and cellular neurosciences",
+      "year": "2006",
+      "doi": "10.1016/j.mcn.2005.10.005"
+    },
+    {
+      "pmid": "16042783",
+      "title": "Comparing independent microarray studies: the case of human embryonic stem cells.",
+      "authors": "Suárez-Fariñas M, Noggle S, Heke M, Hemmati-Brivanlou A, Magnasco MO",
+      "journal": "BMC genomics",
+      "year": "2005",
+      "doi": "10.1186/1471-2164-6-99"
+    },
+    {
+      "pmid": "15784152",
+      "title": "\"Harshlighting\" small blemishes on microarrays.",
+      "authors": "Suárez-Fariñas M, Haider A, Wittkowski KM",
+      "journal": "BMC bioinformatics",
+      "year": "2005",
+      "doi": "10.1186/1471-2105-6-65"
+    }
+  ]
+}
