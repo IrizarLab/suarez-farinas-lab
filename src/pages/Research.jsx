@@ -3,56 +3,91 @@ import { motion, AnimatePresence } from 'framer-motion'
 
 const researchAreas = [
   {
-    title: 'Atopic Dermatitis & Psoriasis',
-    subtitle: 'Decoding inflammatory skin diseases at the molecular level',
+    title: 'Systems Biology of Immune-Mediated Diseases',
+    subtitle: 'Molecular maps of psoriasis, atopic dermatitis & beyond',
     color: '#c0483a',
-    description: 'Our lab has pioneered the use of molecular phenotyping to characterize inflammatory skin diseases. By analyzing gene expression profiles from patient skin biopsies, we identify the key immune pathways driving disease.',
+    description: 'We established integrative computational frameworks to dissect immune-mediated skin diseases. Our cross-study meta-analytic approaches generated the first robust molecular maps of psoriasis and atopic dermatitis, identifying key pathways like IL-17/TNF in psoriasis and Th2-driven inflammation in AD — directly supporting targeted biologic development.',
     questions: [
-      'Can we predict treatment response from baseline molecular profiles?',
-      'What defines the molecular boundary between atopic dermatitis and psoriasis?',
-      'How do different ethnic populations exhibit distinct immune signatures?',
+      'Can early molecular changes forecast long-term treatment outcomes?',
+      'How does disease heterogeneity across IgE status, age, and ethnicity define treatment endotypes?',
+      'What is the "molecular scar" — persistent inflammatory pathways after treatment?',
     ],
-    methods: ['RNA-seq', 'scRNA-seq', 'Machine Learning', 'Molecular Phenotyping'],
+    methods: ['Transcriptomics', 'Meta-Analysis', 'Mixed-Effects Models', 'Genomic Biomarkers'],
     keyPaper: { title: 'Immunology of Psoriasis', citations: '1,627' },
     projects: [
-      { name: 'Dupilumab Molecular Response Atlas', status: 'Ongoing', desc: 'Mapping the complete molecular response to dupilumab across AD severity subtypes' },
-      { name: 'Ethnic AD Phenotyping', status: 'Ongoing', desc: 'Characterizing immune signatures in Asian and African American AD patients' },
-      { name: 'Psoriasis Treatment Predictor', status: 'Completed', desc: 'ML model predicting long-term treatment response from short-course biopsies' },
+      { name: 'Treatment-Agnostic Universal Predictor', status: 'Ongoing', desc: 'Validated predictor of long-term treatment outcomes across cohorts and diseases' },
+      { name: 'Ethnic Endotype Mapping', status: 'Ongoing', desc: 'Characterizing immune signatures across IgE status, age, and ethnicity in AD' },
+      { name: 'Molecular Scar Analysis', status: 'Ongoing', desc: 'Identifying persistent inflammatory pathways after biologic treatment' },
     ],
   },
   {
-    title: 'Inflammatory Bowel Disease',
-    subtitle: 'Systems biology approaches to gut inflammation',
+    title: 'Food Allergy Diagnostics',
+    subtitle: 'Epitope-resolved precision diagnostics',
+    color: '#6a7fa8',
+    description: 'In collaboration with Dr. Hugh Sampson, we developed the bead-based epitope assay (BBEA) — a high-throughput platform for profiling allergen-specific antibody responses. Our ML approaches identify predictive signatures of allergy reactivity, severity, and response to oral immunotherapy, consistently outperforming traditional serum IgE biomarkers.',
+    questions: [
+      'Can epitope-resolved profiling predict food allergy severity and natural resolution?',
+      'How do immune trajectories during early allergen exposure drive tolerance?',
+      'Can we improve upon oral food challenge with computational diagnostics?',
+    ],
+    methods: ['BBEA Platform', 'Machine Learning', 'Longitudinal Modeling', 'bbeaR Package'],
+    keyPaper: { title: 'Epitope-based diagnostic for peanut allergy', citations: '200+' },
+    projects: [
+      { name: 'Commercial Peanut Allergy Test', status: 'Completed', desc: 'Diagnostic test improving upon oral food challenge — now commercially available' },
+      { name: 'LEAP Study Analysis', status: 'Completed', desc: 'Longitudinal epitope-specific immune trajectories during early allergen exposure' },
+      { name: 'Basophil Activation Integration', status: 'Ongoing', desc: 'Integrating basophil activation assays with ML for enhanced diagnostics' },
+    ],
+  },
+  {
+    title: 'Digital Health & Wearables',
+    subtitle: 'Extracting clinical signals from continuous wearable data',
     color: '#2c9e8c',
-    description: 'We apply multi-omics approaches to understand the molecular landscape of Crohn\'s disease and ulcerative colitis, exploring the overlap between gut and skin inflammation.',
+    description: 'We develop statistical and ML methods to extract clinically meaningful signals from wearable devices. Our Warrior Watch study demonstrated that wearable-derived signals can detect early, asymptomatic SARS-CoV-2 infection. We integrate wearable data with causal inference to identify mechanistic relationships in IBD and rheumatoid arthritis.',
     questions: [
-      'What molecular pathways are shared between IBD and skin diseases?',
-      'Can gene expression signatures predict disease course?',
-      'How does intestinal inflammation modulate systemic immune responses?',
+      'Can wearables detect disease flares before clinical symptoms appear?',
+      'What is the causal link between sleep disruption and inflammatory activity?',
+      'How can transformer-based models capture complex temporal dependencies?',
     ],
-    methods: ['Multi-omics', 'Transcriptomics', 'Proteomics', 'Biomarker Discovery'],
-    keyPaper: { title: 'Intestinal inflammation modulates ACE2 and TMPRSS2', citations: '150+' },
+    methods: ['Cosinor Mixed-Effects', 'Transformers', 'Causal Inference', 'CosinorRMixedEffect R Package'],
+    keyPaper: { title: 'Warrior Watch: Wearable detection of SARS-CoV-2', citations: '150+' },
     projects: [
-      { name: 'Gut-Skin Immune Axis', status: 'Ongoing', desc: 'Identifying shared molecular pathways between IBD and inflammatory skin diseases' },
-      { name: 'IBD Subtype Classifier', status: 'Ongoing', desc: 'Multi-omics classifier to distinguish Crohn\'s from ulcerative colitis molecular subtypes' },
+      { name: 'IBD Wearable Monitoring', status: 'Ongoing', desc: 'Real-time disease activity monitoring through wearable-derived biomarkers' },
+      { name: 'Sleep-Inflammation Causal Model', status: 'Ongoing', desc: 'Causal framework linking sleep disruption to inflammatory activity in IBD' },
     ],
   },
   {
-    title: 'Computational Methods & ML',
-    subtitle: 'Building tools for translational medicine',
+    title: 'Inflammatory Bowel Disease & Multi-Omics',
+    subtitle: 'Molecular inflammation scores and spatial biology',
     color: '#d4961a',
-    description: 'At the core of our lab is the development of novel statistical and computational methods. We build machine learning models to predict treatment outcomes and create integrative frameworks for multi-omics data.',
+    description: 'We developed molecular inflammation scores from transcriptomic data in biopsies (bMIS) and blood (cirMIS) that outperform traditional clinical and histological indices. Through integration of bulk and single-cell transcriptomics, CyTOF, microbiome, and spatial data, we define immune and epithelial programs driving IBD.',
     questions: [
-      'How can we build robust models from high-dimensional biological data?',
-      'What is the optimal strategy for integrating multi-omics data?',
-      'Can deep learning improve biomarker discovery?',
+      'Can molecular inflammation scores replace invasive clinical endpoints?',
+      'How does GALT attrition determine therapeutic response?',
+      'What drives the plasmablast-skewed humoral response in active disease?',
     ],
-    methods: ['XGBoost', 'Deep Learning', 'Bayesian Statistics', 'GWAS', 'PCA/UMAP'],
-    keyPaper: { title: 'Translational Profiling Approach for CNS Cell Types', citations: '1,213' },
+    methods: ['scRNA-seq', 'CyTOF', 'Spatial Transcriptomics', 'Microbiome Analysis', 'bMIS/cirMIS'],
+    keyPaper: { title: 'Molecular inflammation scores in IBD (Nature Medicine)', citations: '100+' },
     projects: [
-      { name: 'Multi-omics Integration Pipeline', status: 'Ongoing', desc: 'Framework for integrating RNA-seq, proteomics, and metabolomics in clinical settings' },
-      { name: 'scRNA-seq Deconvolution Tool', status: 'Ongoing', desc: 'Novel method for cell-type deconvolution from bulk RNA-seq using single-cell references' },
-      { name: 'Treatment Response Predictor', status: 'Completed', desc: 'XGBoost-based model for predicting biologic treatment outcomes in inflammatory diseases' },
+      { name: 'Spatial IBD Atlas', status: 'Ongoing', desc: 'Spatial transcriptomic mapping of immune programs along the GI tract' },
+      { name: 'cirMIS Blood Biomarker', status: 'Ongoing', desc: 'Non-invasive blood-based molecular inflammation scoring for IBD monitoring' },
+    ],
+  },
+  {
+    title: 'Biostatistics & AI Methods',
+    subtitle: 'Causal inference meets machine learning',
+    color: '#8b5c4a',
+    description: 'We develop statistical and computational methods for high-dimensional biomedical data. From early meta-analysis frameworks and the TGDR algorithm to modern transformer-based causal architectures, our work ensures ML models are not only predictive but also causal, mechanistically informative, and clinically actionable.',
+    questions: [
+      'How can we integrate causal inference with ML for actionable clinical insights?',
+      'Can transformer architectures improve treatment effect estimation?',
+      'How do we ensure ML models generalize across populations?',
+    ],
+    methods: ['Causal Inference', 'TMLE', 'Instrumental Variables', 'Transformers', 'Meta-TGDR'],
+    keyPaper: { title: 'TGDR: Threshold Gradient Descent Regularization', citations: '300+' },
+    projects: [
+      { name: 'Causal ML for CPAP in OSA', status: 'Ongoing', desc: 'Identifying heterogeneous treatment effects of CPAP using causal frameworks' },
+      { name: 'Transformer Causal Estimation', status: 'Ongoing', desc: 'Transformer-based architectures for robust treatment effect estimation' },
+      { name: 'Harshlight & bbeaR Packages', status: 'Completed', desc: 'R packages for microarray artifact detection and epitope data analysis' },
     ],
   },
 ]
@@ -377,10 +412,15 @@ export default function Research() {
     setFlipDir(dir)
     setNextPageTarget(next)
     setIsFlipping(true)
-    setTimeout(() => {
-      setCurrentPage(next)
+  }
+
+  // Called when flip animation completes via onAnimationComplete
+  const onFlipDone = () => {
+    setCurrentPage(nextPageTarget)
+    // Small delay to ensure React renders the new currentPage before removing overlay
+    requestAnimationFrame(() => {
       setIsFlipping(false)
-    }, 1200) // match exactly with animation duration
+    })
   }
 
   const goNext = () => doFlip(1)
@@ -457,8 +497,8 @@ export default function Research() {
 
           {/* Page holes + Spiral coil */}
           {(() => {
-            const loops = 29
-            const spacing = 23
+            const loops = 45
+            const spacing = 27
             const startY = 18
             const holeR = 4 // hole radius in pages
             const coilR = 10 // how far the coil loops out
@@ -578,16 +618,60 @@ export default function Research() {
             )
           })()}
 
-          {/* Base layer — shows target page during flip, current page otherwise */}
+          {/* Layer 1: Current page */}
           <div className="absolute inset-0" style={{ zIndex: 1 }}>
             {(() => {
-              const showIdx = isFlipping ? nextPageTarget : currentPage
-              const showArea = showIdx > 0 ? researchAreas[showIdx - 1] : null
-              if (showIdx === 0) return <IndexSpread areas={researchAreas} onGoTo={goToPage} style={bookStyle} />
-              if (showArea) return <BookSpread area={showArea} pageNum={showIdx} totalPages={researchAreas.length} style={bookStyle} />
+              const idx = currentPage
+              const area = idx > 0 ? researchAreas[idx - 1] : null
+              if (idx === 0) return <IndexSpread areas={researchAreas} onGoTo={goToPage} style={bookStyle} />
+              if (area) return <BookSpread area={area} pageNum={idx} totalPages={researchAreas.length} style={bookStyle} />
               return null
             })()}
           </div>
+
+          {/* During flip: cover left half with old page's left side so it doesn't change */}
+          {isFlipping && (
+            <>
+              {/* Target page underneath (revealed as flip moves) */}
+              <div className="absolute inset-0" style={{ zIndex: 2 }}>
+                {(() => {
+                  const idx = nextPageTarget
+                  const area = idx > 0 ? researchAreas[idx - 1] : null
+                  if (idx === 0) return <IndexSpread areas={researchAreas} onGoTo={goToPage} style={bookStyle} />
+                  if (area) return <BookSpread area={area} pageNum={idx} totalPages={researchAreas.length} style={bookStyle} />
+                  return null
+                })()}
+              </div>
+              {/* Cover the side that shouldn't change during flip */}
+              {flipDir === 1 ? (
+                /* Going forward: freeze the LEFT page (old content) */
+                <div className="absolute top-0 bottom-0 left-0" style={{ width: '50%', zIndex: 14, overflow: 'hidden' }}>
+                  <div style={{ width: '200%', height: '100%' }}>
+                    {(() => {
+                      const idx = currentPage
+                      const area = idx > 0 ? researchAreas[idx - 1] : null
+                      if (idx === 0) return <IndexSpread areas={researchAreas} onGoTo={goToPage} style={bookStyle} />
+                      if (area) return <BookSpread area={area} pageNum={idx} totalPages={researchAreas.length} style={bookStyle} />
+                      return null
+                    })()}
+                  </div>
+                </div>
+              ) : (
+                /* Going backward: freeze the RIGHT page (old content) */
+                <div className="absolute top-0 bottom-0 right-0" style={{ width: '50%', zIndex: 14, overflow: 'hidden' }}>
+                  <div style={{ width: '200%', height: '100%', marginLeft: '-100%' }}>
+                    {(() => {
+                      const idx = currentPage
+                      const area = idx > 0 ? researchAreas[idx - 1] : null
+                      if (idx === 0) return <IndexSpread areas={researchAreas} onGoTo={goToPage} style={bookStyle} />
+                      if (area) return <BookSpread area={area} pageNum={idx} totalPages={researchAreas.length} style={bookStyle} />
+                      return null
+                    })()}
+                  </div>
+                </div>
+              )}
+            </>
+          )}
 
           {/* Flipping page — the right page that turns over */}
           {isFlipping && flipDir === 1 && (
@@ -595,6 +679,7 @@ export default function Research() {
               initial={{ rotateY: 0 }}
               animate={{ rotateY: -180 }}
               transition={{ duration: 1.2, ease: [0.4, 0, 0.2, 1] }}
+              onAnimationComplete={onFlipDone}
               className="absolute top-0 bottom-0"
               style={{
                 right: 0,
@@ -661,6 +746,7 @@ export default function Research() {
               initial={{ rotateY: -180 }}
               animate={{ rotateY: 0 }}
               transition={{ duration: 1.2, ease: [0.4, 0, 0.2, 1] }}
+              onAnimationComplete={onFlipDone}
               className="absolute top-0 bottom-0"
               style={{
                 right: 0,
@@ -718,15 +804,6 @@ export default function Research() {
             </motion.div>
           )}
 
-          {/* Current spread (when not flipping) */}
-          {!isFlipping && (
-            <div className="absolute inset-0" style={{ zIndex: 5 }}>
-              {currentPage === 0
-                ? <IndexSpread areas={researchAreas} onGoTo={goToPage} style={bookStyle} />
-                : <BookSpread area={currentArea} pageNum={currentPage} totalPages={researchAreas.length} style={bookStyle} />
-              }
-            </div>
-          )}
         </div>
         </div>
 

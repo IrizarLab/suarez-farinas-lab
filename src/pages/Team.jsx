@@ -4,13 +4,50 @@ import { geoMercator, geoPath } from 'd3-geo'
 import { feature } from 'topojson-client'
 
 const teamMembers = [
-  { name: 'Mayte Suárez-Fariñas', role: 'Principal Investigator', country: 'Cuba', flag: '🇨🇺', lonlat: [-79.5, 21.5], color: '#c0483a', bio: 'Professor of Population Health Science & Policy, Genetics & Genomic Sciences, and AI & Human Health.' },
-  { name: 'Member Name', role: 'Postdoctoral Fellow', country: 'South Korea', flag: '🇰🇷', lonlat: [127.8, 36.5], color: '#2c9e8c', bio: 'Computational biology and machine learning applied to inflammatory skin diseases.' },
-  { name: 'Member Name', role: 'Postdoctoral Fellow', country: 'Iran', flag: '🇮🇷', lonlat: [53.7, 32.4], color: '#d4961a', bio: 'Multi-omics integration and biomarker discovery in atopic dermatitis.' },
-  { name: 'Member Name', role: 'PhD Student', country: 'South Korea', flag: '🇰🇷', lonlat: [127.8, 36.5], color: '#2c9e8c', bio: 'Single-cell RNA sequencing analysis of immune cell populations in psoriasis.' },
-  { name: 'Member Name', role: 'PhD Student', country: 'USA', flag: '🇺🇸', lonlat: [-98.5, 39.8], color: '#6a7fa8', bio: 'Statistical methods for clinical trial analysis in inflammatory bowel disease.' },
-  { name: 'Member Name', role: 'Research Assistant', country: 'Iran', flag: '🇮🇷', lonlat: [53.7, 32.4], color: '#d4961a', bio: 'Data pipeline development for high-throughput genomic data processing.' },
-  { name: 'Member Name', role: 'Research Assistant', country: 'USA', flag: '🇺🇸', lonlat: [-98.5, 39.8], color: '#6a7fa8', bio: 'Machine learning model development for treatment response prediction.' },
+  {
+    name: 'Mayte Suárez-Fariñas',
+    role: 'Principal Investigator',
+    country: 'Cuba',
+    flag: '🇨🇺',
+    lonlat: [-79.5, 21.5],
+    color: '#c0483a',
+    bio: 'Professor of Population Health Science & Policy, Genetics & Genomic Sciences, and AI & Human Health.',
+    photo: null,
+    links: { scholar: 'https://scholar.google.com/citations?user=BlGq3e4AAAAJ&hl=en', orcid: 'https://orcid.org/0000-0001-8712-3553' },
+  },
+  {
+    name: 'Samane Khoshbakht',
+    role: 'Postdoctoral Fellow',
+    country: 'Iran',
+    flag: '🇮🇷',
+    lonlat: [53.7, 32.4],
+    color: '#d4961a',
+    bio: 'Postdoctoral researcher in bioinformatics and biostatistics. Performs scRNA-seq analyses in IBD and immune-mediated diseases. Applies linear mixed-effects models for longitudinal clinical data and uses mediation analysis to dissect causal pathways.',
+    photo: 'team/samane-khoshbakht.jpg',
+    links: { scholar: 'https://scholar.google.com/citations?user=9znAJpsAAAAJ&hl=en', orcid: 'https://orcid.org/0000-0003-3253-7577' },
+  },
+  {
+    name: 'Jingyang (Judy) Zhang',
+    role: 'Postdoctoral Fellow',
+    country: 'China',
+    flag: '🇨🇳',
+    lonlat: [104.2, 35.9],
+    color: '#2c9e8c',
+    bio: 'PhD in Statistics from Northwestern University. Works on the REVAMP project building interactive Shiny apps for vaccination policy visualization. Helps with grant proposals and organizes The Counterfactual Thinker\'s Club for causal inference study.',
+    photo: 'team/judy-zhang.jpg',
+    links: { linkedin: 'https://www.linkedin.com/in/jingyang-zhang-ph-d-07380464/' },
+  },
+  {
+    name: 'Kyung Won Lee',
+    role: 'Postdoctoral Fellow',
+    country: 'South Korea',
+    flag: '🇰🇷',
+    lonlat: [127.8, 36.5],
+    color: '#6a7fa8',
+    bio: 'Develops machine learning and deep learning models for clinical applications, including disease prediction, diagnosis, and treatment response modeling using multimodal clinical and wearable data.',
+    photo: null,
+    links: { scholar: 'https://scholar.google.com/citations?user=cUwtSEcAAAAJ&hl=en' },
+  },
 ]
 
 const NYC = [-74.0, 40.7]
@@ -175,8 +212,14 @@ export default function Team() {
   const roles = ['Principal Investigator', 'Postdoctoral Fellow', 'PhD Student', 'Research Assistant']
 
   return (
-    <div style={{ background: '#faf7f4', minHeight: '100vh', paddingTop: '110px', paddingBottom: '60px' }}>
-      <div style={{ maxWidth: '1100px', margin: '0 auto', padding: '0 24px' }}>
+    <div style={{ background: '#faf7f4', minHeight: '100vh', paddingTop: '110px', paddingBottom: '60px', position: 'relative', overflow: 'hidden' }}>
+
+      {/* Full-page background map */}
+      <div style={{ position: 'fixed', top: 0, left: 0, right: 0, bottom: 0, zIndex: 0, opacity: 0.15, pointerEvents: 'none' }}>
+        <WorldMap hoveredCountry={hoveredCountry} />
+      </div>
+
+      <div style={{ maxWidth: '1100px', margin: '0 auto', padding: '0 24px', position: 'relative', zIndex: 1 }}>
 
         {/* Header */}
         <motion.div
@@ -197,18 +240,6 @@ export default function Team() {
           </p>
         </motion.div>
 
-        {/* Map */}
-        <motion.div
-          initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.6, delay: 0.2 }}
-          style={{
-            marginBottom: '20px', borderRadius: '16px', overflow: 'hidden',
-            border: '1px solid #e0d5c8', boxShadow: '0 4px 20px rgba(0,0,0,0.06)',
-          }}
-        >
-          <WorldMap hoveredCountry={hoveredCountry} />
-        </motion.div>
 
         {/* Country legend */}
         <div className="flex flex-wrap justify-center gap-3" style={{ marginBottom: '40px' }}>
@@ -266,33 +297,76 @@ export default function Team() {
                     }}
                   >
                     <div style={{ height: '4px', background: member.color }} />
-                    <div style={{ padding: '24px' }}>
-                      <div className="flex items-start gap-4">
-                        <div style={{
-                          width: role === 'Principal Investigator' ? '80px' : '56px',
-                          height: role === 'Principal Investigator' ? '80px' : '56px',
-                          borderRadius: '50%', flexShrink: 0,
-                          background: `linear-gradient(135deg, ${member.color}20, ${member.color}08)`,
-                          border: `2px solid ${member.color}30`,
-                          display: 'flex', alignItems: 'center', justifyContent: 'center',
-                        }}>
-                          <span style={{ fontSize: role === 'Principal Investigator' ? '28px' : '20px' }}>{member.flag}</span>
-                        </div>
-                        <div style={{ flex: 1 }}>
-                          <h3 style={{ color: '#2a1f1a', fontSize: role === 'Principal Investigator' ? '18px' : '15px', fontWeight: '600', marginBottom: '2px' }}>
-                            {member.name}
-                          </h3>
-                          <p style={{ color: member.color, fontSize: '12px', fontWeight: '500', marginBottom: '8px' }}>{member.role}</p>
-                          <p style={{ color: '#6b5548', fontSize: '12px', lineHeight: '1.6' }}>{member.bio}</p>
-                          <div style={{ marginTop: '10px' }}>
-                            <span style={{
-                              padding: '3px 10px', fontSize: '10px', borderRadius: '9999px',
-                              background: `${member.color}10`, color: member.color, border: `1px solid ${member.color}20`,
-                            }}>
-                              {member.flag} {member.country}
-                            </span>
+                    <div className="flex" style={{ minHeight: '160px' }}>
+                      {/* Left — Photo + Links */}
+                      <div className="flex flex-col items-center justify-center" style={{ width: '130px', flexShrink: 0, padding: '16px 10px', background: `linear-gradient(135deg, ${member.color}06, ${member.color}02)` }}>
+                        {member.photo ? (
+                          <img
+                            src={import.meta.env.BASE_URL + member.photo}
+                            alt={member.name}
+                            style={{ width: '100px', height: '100px', borderRadius: '50%', objectFit: 'cover', border: `3px solid ${member.color}30` }}
+                          />
+                        ) : (
+                          <div style={{
+                            width: '100px', height: '100px',
+                            borderRadius: '50%', flexShrink: 0,
+                            background: `linear-gradient(135deg, ${member.color}20, ${member.color}08)`,
+                            border: `3px solid ${member.color}30`,
+                            display: 'flex', alignItems: 'center', justifyContent: 'center',
+                          }}>
+                            <span style={{ fontSize: '28px' }}>{member.flag}</span>
                           </div>
+                        )}
+                        {/* Links below photo */}
+                        <div className="flex items-center gap-2" style={{ marginTop: '10px' }}>
+                            {member.links?.scholar && (
+                              <a href={member.links.scholar} target="_blank" rel="noopener noreferrer" title="Google Scholar"
+                                style={{ display: 'inline-flex', alignItems: 'center', justifyContent: 'center', width: '26px', height: '26px', borderRadius: '50%', background: 'white', border: '1px solid #e0d5c8', textDecoration: 'none', transition: 'all 0.2s' }}
+                                onMouseEnter={(e) => { e.currentTarget.style.background = '#4285f4'; e.currentTarget.style.borderColor = '#4285f4' }}
+                                onMouseLeave={(e) => { e.currentTarget.style.background = 'white'; e.currentTarget.style.borderColor = '#e0d5c8' }}
+                              >
+                                <svg width="12" height="12" viewBox="0 0 24 24" fill="#4285f4">
+                                  <path d="M12 24a7 7 0 1 1 0-14 7 7 0 0 1 0 14zm0-24L0 9.5l4.838 3.94A8 8 0 0 1 12 9a8 8 0 0 1 7.162 4.44L24 9.5z"/>
+                                </svg>
+                              </a>
+                            )}
+                            {member.links?.orcid && (
+                              <a href={member.links.orcid} target="_blank" rel="noopener noreferrer" title="ORCID"
+                                style={{ display: 'inline-flex', alignItems: 'center', justifyContent: 'center', width: '26px', height: '26px', borderRadius: '50%', background: 'white', border: '1px solid #e0d5c8', textDecoration: 'none', transition: 'all 0.2s' }}
+                                onMouseEnter={(e) => { e.currentTarget.style.background = '#a6ce39'; e.currentTarget.style.borderColor = '#a6ce39' }}
+                                onMouseLeave={(e) => { e.currentTarget.style.background = 'white'; e.currentTarget.style.borderColor = '#e0d5c8' }}
+                              >
+                                <svg width="12" height="12" viewBox="0 0 24 24" fill="#a6ce39">
+                                  <path d="M12 0C5.372 0 0 5.372 0 12s5.372 12 12 12 12-5.372 12-12S18.628 0 12 0zM7.369 4.378c.525 0 .947.431.947.947s-.422.947-.947.947a.95.95 0 0 1-.947-.947c0-.525.422-.947.947-.947zm-.722 3.038h1.444v10.041H6.647zm3.562 0h3.9c3.712 0 5.344 2.653 5.344 5.025 0 2.578-2.016 5.025-5.325 5.025h-3.919zm1.444 1.303v7.444h2.297c3.272 0 4.022-2.484 4.022-3.722 0-2.016-1.284-3.722-3.919-3.722z"/>
+                                </svg>
+                              </a>
+                            )}
+                            {member.links?.linkedin && (
+                              <a href={member.links.linkedin} target="_blank" rel="noopener noreferrer" title="LinkedIn"
+                                style={{ display: 'inline-flex', alignItems: 'center', justifyContent: 'center', width: '26px', height: '26px', borderRadius: '50%', background: 'white', border: '1px solid #e0d5c8', textDecoration: 'none', transition: 'all 0.2s' }}
+                                onMouseEnter={(e) => { e.currentTarget.style.background = '#0077b5'; e.currentTarget.style.borderColor = '#0077b5' }}
+                                onMouseLeave={(e) => { e.currentTarget.style.background = 'white'; e.currentTarget.style.borderColor = '#e0d5c8' }}
+                              >
+                                <svg width="12" height="12" viewBox="0 0 24 24" fill="#0077b5">
+                                  <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 0 1-2.063-2.065 2.064 2.064 0 1 1 2.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/>
+                                </svg>
+                              </a>
+                            )}
                         </div>
+                      </div>
+                      {/* Right — Content */}
+                      <div style={{ flex: 1, padding: '20px 22px' }}>
+                        <h3 style={{ color: '#2a1f1a', fontSize: '15px', fontWeight: '600', marginBottom: '2px' }}>
+                          {member.name}
+                        </h3>
+                        <p style={{ color: member.color, fontSize: '12px', fontWeight: '500', marginBottom: '8px' }}>{member.role}</p>
+                        <p style={{ color: '#6b5548', fontSize: '12px', lineHeight: '1.6', marginBottom: '10px' }}>{member.bio}</p>
+                        <span style={{
+                          padding: '3px 10px', fontSize: '10px', borderRadius: '9999px',
+                          background: `${member.color}10`, color: member.color, border: `1px solid ${member.color}20`,
+                        }}>
+                          {member.flag} {member.country}
+                        </span>
                       </div>
                     </div>
                   </motion.div>
